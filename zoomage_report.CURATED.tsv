@@ -27443,3 +27443,5 @@ disease	steatosis	http://www.ebi.ac.uk/efo/EFO_0008527	E-GEOD-70681	GSM1816398	L
 disease staging	chronic hepatitis	http://www.ebi.ac.uk/efo/EFO_0008496	E-GEOD-19665	GSM490989	Laura Huerta	16/08/2018 12:00
 infect	Globodera rostochiensis	http://purl.obolibrary.org/obo/NCBITaxon_31243	E-MTAB-5215	ERR2190279	Laura Huerta	16/08/2018 12:00
 infect	Streptococcus pneumoniae CGSP14	http://purl.obolibrary.org/obo/NCBITaxon_516950	E-MTAB-6491	12D39s	Laura Huerta	16/08/2018 12:00
+disease	primary-progressive multiple sclerosis	http://www.ebi.ac.uk/efo/EFO_0008520	E-GEOD-23205	GSM570905	Silvie Fexova	16/10/18 16:18
+disease	medulloblastoma, large-cell	http://www.ebi.ac.uk/efo/EFO_0008508	E-GEOD-35493	GSM869683	Silvie Fexova	16/10/18 16:19
