@@ -27436,11 +27436,10 @@ organism part	septum	http://purl.obolibrary.org/obo/PO_0000030	E-MTAB-4837	SRR65
 cell type	umbilical vein endothelial cell	http://purl.obolibrary.org/obo/CL_0002618	E-GEOD-20745	GSM520629	Laura Huerta	13/08/2018 12:00
 cell type	umbilical vein endothelial cell	http://purl.obolibrary.org/obo/CL_0002618	E-GEOD-56976	GSM1372445	Laura Huerta	13/08/2018 12:00
 cell type	umbilical vein endothelial cell	http://purl.obolibrary.org/obo/CL_0002618	E-MTAB-4023	Control_a	Laura Huerta	13/08/2018 12:00
-cell type	epithelial cell of proximal tubule	http://purl.obolibrary.org/obo/cl_0002306	E-MTAB-6640	ERR2493825	Laura Huerta	13/08/2018 12:00
-cell type	parenchyma cell	http://purl.obolibrary.org/obo/po_0000074	E-MEXP-2311	Fukei71_Pa_2	Laura Huerta	16/08/2018 12:00
-disease	sessile serrated polyp	http://www.ebi.ac.uk/efo/efo_0008523	E-GEOD-46513	SRR836214	Laura Huerta	16/08/2018 12:00
-disease	steatosis	http://www.ebi.ac.uk/efo/efo_0008527	E-GEOD-70681	GSM1816398	Laura Huerta	16/08/2018 12:00
-disease staging	chronic hepatitis	http://www.ebi.ac.uk/efo/efo_0008496	E-GEOD-19665	GSM490989	Laura Huerta	16/08/2018 12:00
+cell type	epithelial cell of proximal tubule	http://purl.obolibrary.org/obo/CL_0002306	E-MTAB-6640	ERR2493825	Laura Huerta	13/08/2018 12:00
+cell type	parenchyma cell	http://purl.obolibrary.org/obo/PO_0000074	E-MEXP-2311	Fukei71_Pa_2	Laura Huerta	16/08/2018 12:00
+disease	sessile serrated polyp	http://www.ebi.ac.uk/efo/EFO_0008523	E-GEOD-46513	SRR836214	Laura Huerta	16/08/2018 12:00
+disease	steatosis	http://www.ebi.ac.uk/efo/EFO_0008527	E-GEOD-70681	GSM1816398	Laura Huerta	16/08/2018 12:00
+disease staging	chronic hepatitis	http://www.ebi.ac.uk/efo/EFO_0008496	E-GEOD-19665	GSM490989	Laura Huerta	16/08/2018 12:00
 infect	Globodera rostochiensis	http://purl.obolibrary.org/obo/NCBITaxon_31243	E-MTAB-5215	ERR2190279	Laura Huerta	16/08/2018 12:00
 infect	Streptococcus pneumoniae CGSP14	http://purl.obolibrary.org/obo/NCBITaxon_516950	E-MTAB-6491	12D39s	Laura Huerta	16/08/2018 12:00
-clinical treatment	transverse aortic constriction	http://www.ebi.ac.uk/efo/EFO_0000266	E-GEOD-1621	10 days TAC-2	Nancy George	16/10/2018 15:50
