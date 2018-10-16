@@ -27443,3 +27443,16 @@ disease	steatosis	http://www.ebi.ac.uk/efo/EFO_0008527	E-GEOD-70681	GSM1816398	L
 disease staging	chronic hepatitis	http://www.ebi.ac.uk/efo/EFO_0008496	E-GEOD-19665	GSM490989	Laura Huerta	16/08/2018 12:00
 infect	Globodera rostochiensis	http://purl.obolibrary.org/obo/NCBITaxon_31243	E-MTAB-5215	ERR2190279	Laura Huerta	16/08/2018 12:00
 infect	Streptococcus pneumoniae CGSP14	http://purl.obolibrary.org/obo/NCBITaxon_516950	E-MTAB-6491	12D39s	Laura Huerta	16/08/2018 12:00
+disease	bladder transitional cell carcinoma	http://www.ebi.ac.uk/efo/EFO_0006544	E-MTAB-5200	run_133	Anja Fullgrabe	16/10/18 14:00
+disease	bladder transitional cell carcinoma	http://www.ebi.ac.uk/efo/EFO_0006544	E-MTAB-5423	run_290	Anja Fullgrabe	16/10/18 14:00
+cell line	E14	http://www.ebi.ac.uk/efo/EFO_0007075	E-ERAD-132	ERR779695	Anja Fullgrabe	16/10/18 14:00
+cell line	EA.hy 926	http://www.ebi.ac.uk/efo/EFO_0003039	E-GEOD-31986	GSM792309	Anja Fullgrabe	16/10/18 14:00
+cell line	MCF-10A	http://www.ebi.ac.uk/efo/EFO_0001200	E-GEOD-59765	SRR1525239	Anja Fullgrabe	16/10/18 14:00
+cell line	MCF-10A	http://www.ebi.ac.uk/efo/EFO_0001200	E-GEOD-63452	SRR1657051	Anja Fullgrabe	16/10/18 14:00
+cell line	SCC25	http://www.ebi.ac.uk/efo/EFO_0006483	E-MTAB-3295	MC2_190712	Anja Fullgrabe	16/10/18 14:00
+cell line	SKI-DLCL	http://www.ebi.ac.uk/efo/EFO_0005460	E-GEOD-5681	SKI-DLCL cells_Aplidin 1.5nM AraC 5nM_24h_rpt1	Anja Fullgrabe	16/10/18 14:00
+cell line	SU86.86	http://www.ebi.ac.uk/efo/EFO_0006494	E-GEOD-45757	GSM1113745	Anja Fullgrabe	16/10/18 14:00
+cell line	SU86.86	http://www.ebi.ac.uk/efo/EFO_0006494	E-GEOD-45758	GSM1113830	Anja Fullgrabe	16/10/18 14:00
+cell line	U2932	http://www.ebi.ac.uk/efo/EFO_0006499	E-GEOD-56235	SRR1205286	Anja Fullgrabe	16/10/18 14:00
+cell type	adipocytes	http://purl.obolibrary.org/obo/CL_0000136	E-PROT-3	adipocytes from soft tissue 2	Anja Fullgrabe	16/10/18 14:00
+cell type	fibroblasts	http://purl.obolibrary.org/obo/CL_0000057	E-PROT-3	fibroblasts from skin 1	Anja Fullgrabe	16/10/18 14:00
