@@ -27443,3 +27443,4 @@ disease	steatosis	http://www.ebi.ac.uk/efo/EFO_0008527	E-GEOD-70681	GSM1816398	L
 disease staging	chronic hepatitis	http://www.ebi.ac.uk/efo/EFO_0008496	E-GEOD-19665	GSM490989	Laura Huerta	16/08/2018 12:00
 infect	Globodera rostochiensis	http://purl.obolibrary.org/obo/NCBITaxon_31243	E-MTAB-5215	ERR2190279	Laura Huerta	16/08/2018 12:00
 infect	Streptococcus pneumoniae CGSP14	http://purl.obolibrary.org/obo/NCBITaxon_516950	E-MTAB-6491	12D39s	Laura Huerta	16/08/2018 12:00
+clinical treatment	transverse aortic constriction	http://www.ebi.ac.uk/efo/EFO_0000266	E-GEOD-1621	10 days TAC-2	Nancy George	16/10/2018 15:50
