@@ -27456,3 +27456,43 @@ cell line	SU86.86	http://www.ebi.ac.uk/efo/EFO_0006494	E-GEOD-45758	GSM1113830	A
 cell line	U2932	http://www.ebi.ac.uk/efo/EFO_0006499	E-GEOD-56235	SRR1205286	Anja Fullgrabe	16/10/18 14:00
 cell type	adipocytes	http://purl.obolibrary.org/obo/CL_0000136	E-PROT-3	adipocytes from soft tissue 2	Anja Fullgrabe	16/10/18 14:00
 cell type	fibroblasts	http://purl.obolibrary.org/obo/CL_0000057	E-PROT-3	fibroblasts from skin 1	Anja Fullgrabe	16/10/18 14:00
+cell type	glial cells	http://purl.obolibrary.org/obo/CL_0000125	E-PROT-3	glial cells from hippocampus	Anja Fullgrabe	16/10/18 14:00
+cell type	guard cell	http://purl.obolibrary.org/obo/CL_0000292	E-GEOD-37408	GSM918081	Anja Fullgrabe	16/10/18 14:00
+cell type	immature conventional dendritic cell	http://purl.obolibrary.org/obo/CL_0000840	E-MTAB-6937	A1	Anja Fullgrabe	16/10/18 14:00
+cell type	mature conventional dendritic cell	http://purl.obolibrary.org/obo/CL_0000841	E-MTAB-6937	E2	Anja Fullgrabe	16/10/18 14:00
+cell type	medullary epithelial cell	http://purl.obolibrary.org/obo/CL_0002365	E-GEOD-62741	SRR1631771	Anja Fullgrabe	16/10/18 14:00
+cell type	MEFs	http://www.ebi.ac.uk/efo/EFO_0004037	E-GEOD-47777	GSM1159582	Anja Fullgrabe	16/10/18 14:00
+cell type	mesenchymal stem cell of the bone marrow	http://purl.obolibrary.org/obo/CL_0002540	E-MTAB-6849	ERR2672653	Anja Fullgrabe	16/10/18 14:00
+cell type	na??ve CD4+ T cell	http://purl.obolibrary.org/obo/CL_0000895	E-GEOD-46892	GSM1139901	Anja Fullgrabe	16/10/18 14:00
+cell type	naive CD4+ T Cells	http://purl.obolibrary.org/obo/CL_0000895	E-GEOD-21379	GSM418234	Anja Fullgrabe	16/10/18 14:00
+cell type	neuronal cells	http://purl.obolibrary.org/obo/CL_0000540	E-PROT-3	neuronal cells from lateral ventricle	Anja Fullgrabe	16/10/18 14:00
+cell type	neutrophils	http://purl.obolibrary.org/obo/CL_0000775	E-GEOD-60424	SRR1551068	Anja Fullgrabe	16/10/18 14:00
+cell type	normal human pancreatic ductal epithelial cells	http://purl.obolibrary.org/obo/CL_0002079	E-GEOD-45757	GSM1113672	Anja Fullgrabe	16/10/18 14:00
+growth condition	anti-CD3 antibody	http://www.ebi.ac.uk/efo/EFO_0003317	E-MEXP-1237	WT1-CD3	Anja Fullgrabe	16/10/18 14:00
+growth condition	exercised	http://www.ebi.ac.uk/efo/EFO_0000483	E-GEOD-37922	GSM929942	Anja Fullgrabe	16/10/18 14:00
+growth condition	UV	http://purl.obolibrary.org/obo/EO_0007222	E-GEOD-51161	GSM1239886	Anja Fullgrabe	16/10/18 14:00
+growth condition	UV irradiation	http://purl.obolibrary.org/obo/EO_0007222	E-GEOD-51162	GSM1239894	Anja Fullgrabe	16/10/18 14:00
+growth condition	logarithmic phase culture	http://purl.obolibrary.org/obo/BTO_0001903	E-MTAB-6634	Control3	Anja Fullgrabe	16/10/18 14:00
+infect	H1N1 influenza A	http://www.ebi.ac.uk/efo/EFO_1001488	E-MTAB-3866	Sample_4	Anja Fullgrabe	16/10/18 14:00
+infect	Helicobacter hepaticus	http://purl.obolibrary.org/obo/NCBITaxon_32025	E-MTAB-7076	ERR2713073	Anja Fullgrabe	16/10/18 14:00
+infect	Phytophthera infestans	http://purl.obolibrary.org/obo/NCBITaxon_4787	E-GEOD-5616	AtGen_C-13_1-Pi-12_REP1_ATH1	Anja Fullgrabe	16/10/18 14:00
+infect	Salmonella enterica subsp. enterica serovar Typhimurium	http://purl.obolibrary.org/obo/NCBITaxon_90371	E-MTAB-7232	ERR2810810	Anja Fullgrabe	16/10/18 14:00
+metatastic tissue	effusion, pleural	http://purl.obolibrary.org/obo/UBERON_0000175	E-MTAB-2706	ERR413747	Anja Fullgrabe	16/10/18 14:00
+organism part	endocrine pancreas	http://purl.obolibrary.org/obo/UBERON_0000016	E-MTAB-6329	ERR2228119	Anja Fullgrabe	16/10/18 14:00
+organism part	foreskin	http://purl.obolibrary.org/obo/UBERON_0001332	E-GEOD-41678	GSM1022379	Anja Fullgrabe	16/10/18 14:00
+organism part	foreskin	http://purl.obolibrary.org/obo/UBERON_0001332	E-GEOD-57518	GSM1384128	Anja Fullgrabe	16/10/18 14:00
+organism part	foreskin	http://purl.obolibrary.org/obo/UBERON_0001332	E-GEOD-57864	GSM1395251	Anja Fullgrabe	16/10/18 14:00
+organism part	testes	http://purl.obolibrary.org/obo/UBERON_0000473	E-GEOD-41895	GSM1027103	Anja Fullgrabe	16/10/18 14:00
+organism part	testes	http://purl.obolibrary.org/obo/UBERON_0000473	E-GEOD-42230	GSM1035953	Anja Fullgrabe	16/10/18 14:00
+organism part	testes	http://purl.obolibrary.org/obo/UBERON_0000473	E-GEOD-63362	GSM1547468	Anja Fullgrabe	16/10/18 14:00
+protocol	Ribo-Seq	http://www.ebi.ac.uk/efo/EFO_0008891	E-MTAB-6963	ERR2681846	Anja Fullgrabe	16/10/18 14:00
+protocol	Formalin-fixed paraffin-embedded tissue	http://purl.obolibrary.org/obo/OBI_0000950	E-GEOD-19249	GSM477785	Anja Fullgrabe	16/10/18 14:00
+strain	C57BL/6 J	http://www.ebi.ac.uk/efo/EFO_0000606	E-GEOD-71695	GSM1843264	Anja Fullgrabe	16/10/18 14:00
+strain	NZO/H1LtJ	http://www.ebi.ac.uk/efo/EFO_0007729	E-GEOD-63756	SRR1686905	Anja Fullgrabe	16/10/18 14:00
+compound	N-acetylcysteine	http://purl.obolibrary.org/obo/CHEBI_28939	E-MTAB-4398	ERR1247142	Anja Fullgrabe	16/10/18 14:00
+compound	(-)-methyl jasmonate	http://purl.obolibrary.org/obo/CHEBI_15929	E-MTAB-5413	ERR1806552	Anja Fullgrabe	16/10/18 14:00
+compound	carboplatin	http://purl.obolibrary.org/obo/CHEBI_31355	E-MTAB-6872	ERR2653336	Anja Fullgrabe	16/10/18 14:00
+compound	vitamin D	http://purl.obolibrary.org/obo/CHEBI_27300	E-MTAB-6937	E1	Anja Fullgrabe	16/10/18 14:00
+compound	ochratoxin A	http://purl.obolibrary.org/obo/CHEBI_7719	E-MTAB-7048	D-IMU-1-119-OA-130-1D2R-8	Anja Fullgrabe	16/10/18 14:00
+compound	potassium bromate	http://purl.obolibrary.org/obo/CHEBI_38211	E-MTAB-7048	D-IMU-1-124-KB-800-3D1R-13	Anja Fullgrabe	16/10/18 14:00
+compound	chlorpromazine	http://purl.obolibrary.org/obo/CHEBI_3647	E-MTAB-7232	ERR2810772	Anja Fullgrabe	16/10/18 14:00
