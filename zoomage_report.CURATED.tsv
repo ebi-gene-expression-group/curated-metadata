@@ -27516,3 +27516,8 @@ compound	5-Aza	http://purl.obolibrary.org/obo/CHEBI_50131	E-GEOD-41364	GSM101554
 compound	5-aza-deoxy-cytidine	http://purl.obolibrary.org/obo/CHEBI_50131	E-GEOD-41586	SRR592578	Nancy George	16/10/2018 15:50
 compound	2,4-dinitrophenol	http://purl.obolibrary.org/obo/CHEBI_42017	E-GEOD-5509	GSM127064	Nancy George	16/10/2018 15:50
 compound	recombinant tumor necrosis factor-alpha	http://www.ebi.ac.uk/efo/EFO_0003271	E-MTAB-1311	13674_RLAK_230 hybridization	Nancy George	16/10/2018 15:50
+disease	lobular breast cancer	http://www.ebi.ac.uk/efo/EFO_0008509	E-GEOD-55529	GSM1338715	Silvie Fexova	17/10/18 12:30
+disease	urothelial carcinoma	http://www.ebi.ac.uk/efo/EFO_0008528	E-MTAB-1940	FR_354_U133_2.CEL	Silvie Fexova	17/10/18 12:30
+disease	promyelocytic leukemia	http://www.ebi.ac.uk/efo/EFO_0000224	E-GEOD-48433	GSM1178191	Silvie Fexova	17/10/18 12:30
+disease	T-cell lymphoblastic leukemia	http://www.ebi.ac.uk/efo/EFO_0000209	E-GEOD-51258	GSM1241305	Silvie Fexova	17/10/18 12:30
+disease	acute lymphoblastic (T-ALL) leukemia	http://www.ebi.ac.uk/efo/EFO_0000220	E-GEOD-48433	GSM1178013	Anja Fullgrabe	16/10/18 14:00
