@@ -27496,3 +27496,16 @@ compound	vitamin D	http://purl.obolibrary.org/obo/CHEBI_27300	E-MTAB-6937	E1	Anj
 compound	ochratoxin A	http://purl.obolibrary.org/obo/CHEBI_7719	E-MTAB-7048	D-IMU-1-119-OA-130-1D2R-8	Anja Fullgrabe	16/10/18 14:00
 compound	potassium bromate	http://purl.obolibrary.org/obo/CHEBI_38211	E-MTAB-7048	D-IMU-1-124-KB-800-3D1R-13	Anja Fullgrabe	16/10/18 14:00
 compound	chlorpromazine	http://purl.obolibrary.org/obo/CHEBI_3647	E-MTAB-7232	ERR2810772	Anja Fullgrabe	16/10/18 14:00
+disease	Myocardial Ischemia	http://www.ebi.ac.uk/efo/EFO_1001375	E-MTAB-6460	ERR2733182	Anja Fullgrabe	16/10/18 14:00
+disease	B-cell non-Hodgkin lymphoma	http://www.ebi.ac.uk/efo/EFO_1001938	E-MTAB-5423	run_610	Anja Fullgrabe	16/10/18 14:00
+disease	B-cell non-Hodgkin lymphoma	http://www.ebi.ac.uk/efo/EFO_1001938	E-MTAB-5200	run_188	Anja Fullgrabe	16/10/18 14:00
+disease	acute lymphoblastic (T-ALL) leukemia	http://www.ebi.ac.uk/efo/EFO_0000209	E-GEOD-48433	GSM1178013	Anja Fullgrabe	16/10/18 14:00
+disease	ovarian cystadenocarcinoma	http://www.ebi.ac.uk/efo/EFO_1001962	E-MTAB-2770	run_EFO_21.1	Anja Fullgrabe	16/10/18 14:00
+disease	primary-progressive multiple sclerosis	http://www.ebi.ac.uk/efo/EFO_0008520	E-GEOD-23205	GSM570905	Anja Fullgrabe	16/10/18 14:00
+disease	sporadic ALS	http://www.ebi.ac.uk/efo/EFO_0001357	E-GEOD-52946	SRR1042019	Anja Fullgrabe	16/10/18 14:00
+disease	familial ALS	http://www.ebi.ac.uk/efo/EFO_0001356	E-GEOD-52946	SRR1042021	Anja Fullgrabe	16/10/18 14:00
+disease staging	dysplasia	http://www.ebi.ac.uk/efo/EFO_0008501	E-GEOD-30784	GSM764974	Anja Fullgrabe	16/10/18 14:00
+ecotype	Ler-1	http://www.ebi.ac.uk/efo/EFO_0005155	E-MTAB-6123	H1003446_JGL1157-34_59994	Anja Fullgrabe	16/10/18 14:00
+ethnic group	Asian ancestry	http://purl.obolibrary.org/obo/HANCESTRO_0008	E-GEOD-52463	SRR1297310	Anja Fullgrabe	16/10/18 14:00
+ethnic group	European ancestry	http://purl.obolibrary.org/obo/HANCESTRO_0005	E-GEOD-52463	SRR1297314	Anja Fullgrabe	16/10/18 14:00
+ethnic group	Native American	http://purl.obolibrary.org/obo/HANCESTRO_0013	E-GEOD-75011	SRR2922156	Anja Fullgrabe	16/10/18 14:00
