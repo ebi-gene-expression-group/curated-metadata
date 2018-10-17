@@ -27511,3 +27511,8 @@ ecotype	Ler-1	http://www.ebi.ac.uk/efo/EFO_0005155	E-MTAB-6123	H1003446_JGL1157-
 ethnic group	Asian ancestry	http://purl.obolibrary.org/obo/HANCESTRO_0008	E-GEOD-52463	SRR1297310	Anja Fullgrabe	16/10/18 14:00
 ethnic group	European ancestry	http://purl.obolibrary.org/obo/HANCESTRO_0005	E-GEOD-52463	SRR1297314	Anja Fullgrabe	16/10/18 14:00
 ethnic group	Native American	http://purl.obolibrary.org/obo/HANCESTRO_0013	E-GEOD-75011	SRR2922156	Anja Fullgrabe	16/10/18 14:00
+clinical treatment	transverse aortic constriction	http://www.ebi.ac.uk/efo/EFO_0000266	E-GEOD-1621	10 days TAC-2	Nancy George	16/10/2018 15:50
+compound	5-Aza	http://purl.obolibrary.org/obo/CHEBI_50131	E-GEOD-41364	GSM1015547	Nancy George	16/10/2018 15:50
+compound	5-aza-deoxy-cytidine	http://purl.obolibrary.org/obo/CHEBI_50131	E-GEOD-41586	SRR592578	Nancy George	16/10/2018 15:50
+compound	2,4-dinitrophenol	http://purl.obolibrary.org/obo/CHEBI_42017	E-GEOD-5509	GSM127064	Nancy George	16/10/2018 15:50
+compound	recombinant tumor necrosis factor-alpha	http://www.ebi.ac.uk/efo/EFO_0003271	E-MTAB-1311	13674_RLAK_230 hybridization	Nancy George	16/10/2018 15:50
