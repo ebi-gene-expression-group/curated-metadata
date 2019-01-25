@@ -6,7 +6,7 @@ import sys
 def check_for_mapping_conflict():
     """This test checks if a single term has been mapped two more than one
     ontology terms"""
-    with codecs.open("../zoomage_report.CURATED.tsv", encoding='utf-8') as f:
+    with codecs.open(sys.argv[1], encoding='utf-8') as f:
         term_dict = defaultdict(set)
         header = f.readline()
         for line in f:
