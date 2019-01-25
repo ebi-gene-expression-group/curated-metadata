@@ -36,7 +36,7 @@ cell line	H1-hESC	http://www.ebi.ac.uk/efo/EFO_0003042	E-GEOD-26284	GSM758566 1	
 cell line	HCT116	http://www.ebi.ac.uk/efo/EFO_0002824	E-MEXP-1509	shmSin3 a b -2	Eleanor Williams	01/10/2014 18:36
 cell line	HeLa-S3	http://www.ebi.ac.uk/efo/EFO_0002791	E-GEOD-26284	GSM765404 1	Eleanor Williams	01/10/2014 18:36
 cell line	HUES-1	http://www.ebi.ac.uk/efo/EFO_0005355	E-MEXP-3577	Un_Treated_1	Eleanor Williams	01/10/2014 18:36
-cell line	Human Mammary Epithelial Cell	http://purl.obolibrary.org/obo/CL_0002327	E-GEOD-9649	GSE9649GSM243759	Eleanor Williams	01/10/2014 18:36
+cell line	Human Mammary Epithelial Cell	http://purl.obolibrary.org/obo/BTO_0002178	E-GEOD-9649	GSE9649GSM243759	Eleanor Williams	01/10/2014 18:36
 cell line	HUVEC cell line	http://www.ebi.ac.uk/efo/EFO_0002795	E-GEOD-26284	GSM758569 1	Eleanor Williams	01/10/2014 18:36
 cell line	SK-N-SH_RA	http://www.ebi.ac.uk/efo/EFO_0002802	E-GEOD-26284	GSM767845 1	Eleanor Williams	01/10/2014 18:36
 cell line	CFT-2	http://www.ebi.ac.uk/efo/EFO_0001102	E-MEXP-980	CFT-2_2	Eleanor Williams	01/10/2014 18:37
@@ -2263,7 +2263,7 @@ tissue supergroup	reproductive system	http://purl.obolibrary.org/obo/UBERON_0000
 tissue supergroup	respiratory system	http://purl.obolibrary.org/obo/UBERON_0001004	E-MTAB-3358	10075-102A3	Maria Keays	22/06/2015 16:10
 tissue supergroup	sensory system	http://purl.obolibrary.org/obo/UBERON_0001032	E-MTAB-3358	10054-101G9	Maria Keays	22/06/2015 16:10
 treatment	1-naphthylacetic acid	http://purl.obolibrary.org/obo/CHEBI_32918	E-GEOD-17479	GSM435939	Maria Keays	22/06/2015 16:10
-cell line	H322T	http://www.ebi.ac.uk/efo/EFO_0006413	E-MTAB-2706	Sample 270	Maria Keays	22/06/2015 17:46
+cell line	H322T	http://www.ebi.ac.uk/efo/EFO_0006691	E-MTAB-2706	Sample 270	Maria Keays	22/06/2015 17:46
 cell line	HCA-7	http://www.ebi.ac.uk/efo/EFO_0006415	E-MTAB-2706	Sample 433	Maria Keays	22/06/2015 17:46
 cell line	HCC1011	http://www.ebi.ac.uk/efo/EFO_0006422	E-MTAB-2706	Sample 499	Maria Keays	22/06/2015 17:46
 cell line	HCC1162	http://www.ebi.ac.uk/efo/EFO_0006423	E-MTAB-2706	Sample 422	Maria Keays	22/06/2015 17:46
@@ -22115,7 +22115,7 @@ infect	Pseudomonas syringae pv. tomato str. DC3000, 3 day	http://purl.obolibrary
 infect	Puccinia striiformis f. sp. tritici	http://purl.obolibrary.org/obo/NCBITaxon_168172	E-MTAB-4289	SRR1228246	Laura Huerta	30/03/2016 09:30
 infect	Sporisorium reilianum f. sp. zeae	http://purl.obolibrary.org/obo/NCBITaxon_72740	E-GEOD-40952	SRR572424	Laura Huerta	30/03/2016 09:30
 infect	Trichoderma harzianum	http://purl.obolibrary.org/obo/NCBITaxon_5544	E-MTAB-4324	SRR520379	Laura Huerta	30/03/2016 09:30
-infect	Trichoderma harzianum and Plasmopara viticola	http://purl.obolibrary.org/obo/NCBITaxon_5544|http://purl.obolibrary.org/obo/NCBITaxon_143451	E-MTAB-4324	SRR520388	Laura Huerta	30/03/2016 09:30
+infect	Trichoderma harzianum and Plasmopara viticola	http://purl.obolibrary.org/obo/NCBITaxon_143451|http://purl.obolibrary.org/obo/NCBITaxon_5544	E-MTAB-4324	SRR520388	Laura Huerta	30/03/2016 09:30
 infect	Triticum mosaic virus	http://purl.obolibrary.org/obo/NCBITaxon_431317	E-GEOD-54026	SRR1106886	Laura Huerta	30/03/2016 09:30
 infect	Wheat streak mosaic virus	http://purl.obolibrary.org/obo/NCBITaxon_31741	E-GEOD-54026	SRR1106885	Laura Huerta	30/03/2016 09:30
 infect	Wheat streak mosaic virus and Triticum mosaic virus	http://purl.obolibrary.org/obo/NCBITaxon_31741|http://purl.obolibrary.org/obo/NCBITaxon_431317	E-GEOD-54026	SRR1106892	Laura Huerta	30/03/2016 09:30
@@ -23332,7 +23332,7 @@ organism part	retinal pigment epithelium	http://purl.obolibrary.org/obo/UBERON_0
 organism part	Root Apical Meristem	http://purl.obolibrary.org/obo/PO_0020147	E-MEXP-2912	H_WT MS_1	Laura Huerta	19/04/2016 18:00
 organism part	root meristematic region	http://purl.obolibrary.org/obo/PO_0006085	E-GEOD-9996	Regenerating Stump of Root Tip Cut at 130 mm first and then Recut after 0 hrs Taking 70 mm of Stump (4dpg) rep2	Laura Huerta	19/04/2016 18:00
 organism part	skin of lower leg	http://purl.obolibrary.org/obo/UBERON_0004264	E-MTAB-2919	SRR1092087	Laura Huerta	19/04/2016 18:00
-organism part	skin of suprapubic region	http://purl.obolibrary.org/obo/UBERON_0013203	E-MTAB-2919	SRR810551	Laura Huerta	19/04/2016 18:00
+organism part	skin of suprapubic region	http://purl.obolibrary.org/obo/UBERON_0036149	E-MTAB-2919	SRR810551	Laura Huerta	19/04/2016 18:00
 organism part	skull	http://purl.obolibrary.org/obo/UBERON_0003129	E-GEOD-55282	SRR1175204	Laura Huerta	19/04/2016 18:00
 organism part	subcutaneous adipose tissue	http://purl.obolibrary.org/obo/UBERON_0002190	E-GEOD-44000	GSM1076335	Laura Huerta	19/04/2016 18:00
 organism part	subcutaneous adipose tissue	http://purl.obolibrary.org/obo/UBERON_0002190	E-MEXP-1636	SC6	Laura Huerta	19/04/2016 18:00
@@ -24870,7 +24870,7 @@ organism part	zone of skin	http://purl.obolibrary.org/obo/UBERON_0000014	E-MTAB-
 organism part	zone of skin	http://purl.obolibrary.org/obo/UBERON_0000014	E-MTAB-3358	DRR009595	Laura Huerta	05/01/2017 10:00
 organism part	zone of skin	http://purl.obolibrary.org/obo/UBERON_0000014	E-MTAB-3579	DRR009951	Laura Huerta	05/01/2017 10:00
 tissue supergroup	zone of skin	http://purl.obolibrary.org/obo/UBERON_0000014	E-MTAB-2706	ERR413709	Laura Huerta	05/01/2017 10:00
-compound	50 millimolar hydrogen peroxide and 1 micromolar brassinolide	http://purl.obolibrary.org/obo/CHEBI_28277	E-GEOD-20756	GSM520762	Laura Huerta	05/01/2017 10:00
+compound	50 millimolar hydrogen peroxide and 1 micromolar brassinolide	http://purl.obolibrary.org/obo/CHEBI_28277|http://purl.obolibrary.org/obo/CHEBI_16240	E-GEOD-20756	GSM520762	Laura Huerta	05/01/2017 10:00
 cell line	H322T	http://www.ebi.ac.uk/efo/EFO_0006691	E-MTAB-2706	ERR413516	Laura Huerta	05/01/2017 10:00
 organism	Arabidopsis lyrata	http://purl.obolibrary.org/obo/NCBITaxon_59689	E-MTAB-5072	SRR891324	Laura Huerta	05/01/2017 10:00
 strain	BALB	http://www.ebi.ac.uk/efo/EFO_0000602	E-GEOD-3100	BALB_Male_CF_rep1	Laura Huerta	05/01/2017 10:00
@@ -27430,7 +27430,7 @@ disease	spinal muscular atrophy	http://www.ebi.ac.uk/efo/EFO_0008525	E-GEOD-6254
 disease	testicular germ cell tumor	http://www.ebi.ac.uk/efo/EFO_1000566	E-MTAB-3983	ERR975460	Laura Huerta	13/08/2018 12:00
 disease	unspecified peripheral T-cell lymphoma	http://www.ebi.ac.uk/efo/EFO_0000211	E-MTAB-6401	SAMPLE11_OK10_N8861	Laura Huerta	13/08/2018 12:00
 organism part	cerebral meninges	http://purl.obolibrary.org/obo/UBERON_0010743	E-GEOD-67644	GSM1652597	Laura Huerta	13/08/2018 12:00
-cell line	Human Mammary Epithelial Cell	http://purl.obolibrary.org/obo/CL_0002327	E-GEOD-9649	HMEC Lactic Acidosis 3	Laura Huerta	13/08/2018 12:00
+cell line	Human Mammary Epithelial Cell	http://purl.obolibrary.org/obo/BTO_0002178	E-GEOD-9649	HMEC Lactic Acidosis 3	Laura Huerta	13/08/2018 12:00
 organism part	medulla	http://purl.obolibrary.org/obo/UBERON_0000958	E-GEOD-66354	GSM1620296	Laura Huerta	13/08/2018 12:00
 organism part	septum	http://purl.obolibrary.org/obo/PO_0000030	E-MTAB-4837	SRR654026	Laura Huerta	13/08/2018 12:00
 cell type	umbilical vein endothelial cell	http://purl.obolibrary.org/obo/CL_0002618	E-GEOD-20745	GSM520629	Laura Huerta	13/08/2018 12:00
@@ -27576,7 +27576,7 @@ cell line	SF295	http://www.ebi.ac.uk/efo/EFO_0005452	E-PROT-25	ppb.iBAQ.SF295_1_
 cell type	skeletal muscle myoblast	http://purl.obolibrary.org/obo/CL_0000515	E-MTAB-7287	ERR2840882	Anja Fullgrabe	25/01/19 11:00
 cell type	skeletal muscle myoblast	http://purl.obolibrary.org/obo/CL_0000515	E-MTAB-7614	Mouse_5_VGLL3_24	Anja Fullgrabe	25/01/19 11:00
 cell line	SW527	http://www.ebi.ac.uk/efo/EFO_0005462	E-PROT-22	ppb.iBAQ.SW527_1_Lawrence	Anja Fullgrabe	25/01/19 11:00
-cell line	Human Mammary Epithelial Cell	http://purl.obolibrary.org/obo/CL_0002327	E-GEOD-9649	HMEC Acidosis 2	Anja Fullgrabe	25/01/19 11:00
+cell line	Human Mammary Epithelial Cell	http://purl.obolibrary.org/obo/BTO_0002178	E-GEOD-9649	HMEC Acidosis 2	Anja Fullgrabe	25/01/19 11:00
 cell line	46C	http://www.ebi.ac.uk/efo/EFO_0005484	E-GEOD-81849	SRR3584321	Anja Fullgrabe	25/01/19 11:00
 cell line	46C	http://www.ebi.ac.uk/efo/EFO_0005484	E-MTAB-4893	ERR1735566	Anja Fullgrabe	25/01/19 11:00
 disease	high grade ovarian serous carcinoma	http://www.ebi.ac.uk/efo/EFO_1001958	E-MTAB-7083	SC-51	Anja Fullgrabe	25/01/19 11:00
