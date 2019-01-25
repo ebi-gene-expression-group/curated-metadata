@@ -27626,3 +27626,39 @@ cell type	B CD19 lymphocyte	http://purl.obolibrary.org/obo/CL_0000236	E-GEOD-527
 cell type	granulosa	http://purl.obolibrary.org/obo/CL_0000236	E-GEOD-42997	GSM1054639	granulosa cell|ovarian follicular granulosa	mismatch	REQUIRES_CURATION
 cell type	inner ear hair cell	http://purl.obolibrary.org/obo/CL_0000202	E-MTAB-3578	DRR009633	cochlear hair cell	mismatch	REQUIRES_CURATION
 cell type	myeloid cell	http://purl.obolibrary.org/obo/CL_0000763	E-MTAB-5690	15_DMSO_052214	myeloid lineage restricted progenitor cell|myeloid progenitor cell	mismatch	REQUIRES_CURATION
+cell line	H9 embryonic stem cell	http://www.ebi.ac.uk/efo/EFO_0003045	E-GEOD-109979	SRR6661431	ESC derived cell line	mismatch	REQUIRES_CURATION
+cell line	immortal cell line cell	http://purl.obolibrary.org/obo/CL_0000002	E-MTAB-4850	ERR1797411	haemopoietic system cell line	mismatch	REQUIRES_CURATION
+cell type	basophil mast progenitor cell	http://purl.obolibrary.org/obo/CL_0002028	E-GEOD-106973	SRR6297144	basophil mast progenitor cell	MATCHES_ONTOLOGY_LABEL	REQUIRES_CURATION
+cell type	dopaminergic neuron	http://purl.obolibrary.org/obo/CL_0000700	E-MTAB-7303	ERR2848283	dopaminergic neuron	MATCHES_ONTOLOGY_LABEL	REQUIRES_CURATION
+cell type	group 1 innate lymphoid cell	http://purl.obolibrary.org/obo/CL_0001067	E-GEOD-70580	SRR2088600	group 1 innate lymphoid cell	MATCHES_ONTOLOGY_LABEL	REQUIRES_CURATION
+cell type	group 2 innate lymphoid cell	http://purl.obolibrary.org/obo/CL_0001069	E-GEOD-70580	SRR2088330	group 2 innate lymphoid cell	MATCHES_ONTOLOGY_LABEL	REQUIRES_CURATION
+cell type	group 3 innate lymphoid cell	http://purl.obolibrary.org/obo/CL_0001071	E-GEOD-70580	SRR2088253	group 3 innate lymphoid cell	MATCHES_ONTOLOGY_LABEL	REQUIRES_CURATION
+cell type	mature T cell	http://purl.obolibrary.org/obo/CL_0002419	E-GEOD-100911	SRR5810779	mature NK T cell	mismatch	REQUIRES_CURATION
+cell type	pre-conventional dendritic cell	http://purl.obolibrary.org/obo/CL_0002010	E-GEOD-89232	SRR4456039	pre-conventional dendritic cell	MATCHES_ONTOLOGY_LABEL	REQUIRES_CURATION
+developmental stage	gastrula	http://purl.obolibrary.org/obo/UBERON_0000109	E-MTAB-6077	ERR2146954	gastrula shield	mismatch	REQUIRES_CURATION
+developmental stage	pupal stage	http://purl.obolibrary.org/obo/UBERON_0000070	E-GEOD-100058	SRR5685433	pupal stage	MATCHES_ONTOLOGY_LABEL	REQUIRES_CURATION
+disease	obstructive sleep apnea syndrome	http://www.ebi.ac.uk/efo/EFO_0003918	E-GEOD-70580	SRR2088622	obstructive sleep apnea	mismatch	REQUIRES_CURATION
+ethnic group	Asian Indian	http://purl.obolibrary.org/obo/HANCESTRO_0487	E-GEOD-81608	SRR3541387	Asian	mismatch	REQUIRES_CURATION
+infect	Salmonella enterica	http://purl.obolibrary.org/obo/NCBITaxon_28901	E-ENAD-14	SRR5102199	Salmonella enterica subsp. enterica serovar Typhimurium|Salmonella enterica serovar Typhimurium	mismatch	REQUIRES_CURATION
+infect	Heligmosomoides polygyrus	http://purl.obolibrary.org/obo/NCBITaxon_6339	E-ENAD-14	SRR5102104	Heligmosomoides polygyrus	MATCHES_ONTOLOGY_LABEL	REQUIRES_CURATION
+histology	HER2 positive breast carcinoma	http://www.ebi.ac.uk/efo/EFO_1000294	E-GEOD-75688	SRR5023527	HER2 Positive Breast Carcinoma	MATCHES_ONTOLOGY_LABEL	REQUIRES_CURATION
+inferred cell type	endocrine cell	http://purl.obolibrary.org/obo/CL_0000163	E-ENAD-13	SRR5102666	endocrine cell	MATCHES_ONTOLOGY_LABEL	REQUIRES_CURATION
+inferred cell type	endocrine cell	http://purl.obolibrary.org/obo/CL_0000163	E-ENAD-14	SRR5102206	endocrine cell	MATCHES_ONTOLOGY_LABEL	REQUIRES_CURATION
+inferred cell type	goblet cell	http://purl.obolibrary.org/obo/CL_0000160	E-ENAD-13	SRR5102655	goblet cell	MATCHES_ONTOLOGY_LABEL	REQUIRES_CURATION
+inferred cell type	goblet cell	http://purl.obolibrary.org/obo/CL_0000160	E-ENAD-14	SRR5102080	goblet cell	MATCHES_ONTOLOGY_LABEL	REQUIRES_CURATION
+inferred cell type	neoplastic cell	http://purl.obolibrary.org/obo/CL_0001063	E-GEOD-84465	SRR3934370	neoplastic cell	MATCHES_ONTOLOGY_LABEL	REQUIRES_CURATION
+inferred cell type	pancreatic A cell	http://purl.obolibrary.org/obo/CL_0000171	E-GEOD-81547	SRR3562516	pancreatic A cell	MATCHES_ONTOLOGY_LABEL	REQUIRES_CURATION
+inferred cell type	pancreatic A cell	http://purl.obolibrary.org/obo/CL_0000171	E-GEOD-81608	SRR3542461	pancreatic A cell	MATCHES_ONTOLOGY_LABEL	REQUIRES_CURATION
+inferred cell type	pancreatic A cell	http://purl.obolibrary.org/obo/CL_0000171	E-MTAB-5061	ERR1633389	pancreatic A cell	MATCHES_ONTOLOGY_LABEL	REQUIRES_CURATION
+inferred cell type	pancreatic D cell	http://purl.obolibrary.org/obo/CL_0000173	E-GEOD-81547	SRR3563212	pancreatic D cell	MATCHES_ONTOLOGY_LABEL	REQUIRES_CURATION
+inferred cell type	pancreatic D cell	http://purl.obolibrary.org/obo/CL_0000173	E-GEOD-81608	SRR3541913	pancreatic D cell	MATCHES_ONTOLOGY_LABEL	REQUIRES_CURATION
+inferred cell type	pancreatic D cell	http://purl.obolibrary.org/obo/CL_0000173	E-MTAB-5061	ERR1630228	pancreatic D cell	MATCHES_ONTOLOGY_LABEL	REQUIRES_CURATION
+inferred cell type	pancreatic epsilon cell	http://purl.obolibrary.org/obo/CL_0005019	E-MTAB-5061	ERR1630896	pancreatic epsilon cell	MATCHES_ONTOLOGY_LABEL	REQUIRES_CURATION
+inferred cell type	pancreatic PP cell	http://purl.obolibrary.org/obo/CL_0002275	E-GEOD-81608	SRR3541927	pancreatic PP cell	MATCHES_ONTOLOGY_LABEL	REQUIRES_CURATION
+inferred cell type	pancreatic PP cell	http://purl.obolibrary.org/obo/CL_0002275	E-MTAB-5061	ERR1631405	pancreatic PP cell	MATCHES_ONTOLOGY_LABEL	REQUIRES_CURATION
+inferred cell type	pancreatic stellate cell	http://purl.obolibrary.org/obo/CL_0002410	E-MTAB-5061	ERR1630282	pancreatic stellate cell	MATCHES_ONTOLOGY_LABEL	REQUIRES_CURATION
+inferred cell type	tuft cell	http://purl.obolibrary.org/obo/CL_0002204	E-ENAD-13	SRR5102905	tuft cell	MATCHES_ONTOLOGY_LABEL	REQUIRES_CURATION
+inferred cell type	tuft cell	http://purl.obolibrary.org/obo/CL_0002204	E-ENAD-14	SRR5102175	tuft cell	MATCHES_ONTOLOGY_LABEL	REQUIRES_CURATION
+inferred developmental stage	trophozoite	http://www.ebi.ac.uk/efo/EFO_0002592	E-ENAD-16	ERR1823175	trophozoite	MATCHES_ONTOLOGY_LABEL	REQUIRES_CURATION
+organism part	head kidney	http://purl.obolibrary.org/obo/ZFA_0000669	E-GEOD-100911	SRR5810776	head kidney	MATCHES_ONTOLOGY_LABEL	REQUIRES_CURATION
+sampling site	metastasis to lymph node	http://www.ebi.ac.uk/efo/EFO_0004906	E-GEOD-75688	SRR2973391	metastasis to lymph node	MATCHES_ONTOLOGY_LABEL	REQUIRES_CURATION
