@@ -1,0 +1,5 @@
+language: python
+python:
+  - "3.6"
+script:
+  - python tests/validate_mappings_file.py zoomage_report.CURATED.tsv

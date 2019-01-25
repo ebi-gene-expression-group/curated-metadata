@@ -36,7 +36,7 @@ cell line	H1-hESC	http://www.ebi.ac.uk/efo/EFO_0003042	E-GEOD-26284	GSM758566 1	
 cell line	HCT116	http://www.ebi.ac.uk/efo/EFO_0002824	E-MEXP-1509	shmSin3 a b -2	Eleanor Williams	01/10/2014 18:36
 cell line	HeLa-S3	http://www.ebi.ac.uk/efo/EFO_0002791	E-GEOD-26284	GSM765404 1	Eleanor Williams	01/10/2014 18:36
 cell line	HUES-1	http://www.ebi.ac.uk/efo/EFO_0005355	E-MEXP-3577	Un_Treated_1	Eleanor Williams	01/10/2014 18:36
-cell line	Human Mammary Epithelial Cell	http://purl.obolibrary.org/obo/CL_0002327	E-GEOD-9649	GSE9649GSM243759	Eleanor Williams	01/10/2014 18:36
+cell line	Human Mammary Epithelial Cell	http://purl.obolibrary.org/obo/BTO_0002178	E-GEOD-9649	GSE9649GSM243759	Eleanor Williams	01/10/2014 18:36
 cell line	HUVEC cell line	http://www.ebi.ac.uk/efo/EFO_0002795	E-GEOD-26284	GSM758569 1	Eleanor Williams	01/10/2014 18:36
 cell line	SK-N-SH_RA	http://www.ebi.ac.uk/efo/EFO_0002802	E-GEOD-26284	GSM767845 1	Eleanor Williams	01/10/2014 18:36
 cell line	CFT-2	http://www.ebi.ac.uk/efo/EFO_0001102	E-MEXP-980	CFT-2_2	Eleanor Williams	01/10/2014 18:37
@@ -2263,7 +2263,7 @@ tissue supergroup	reproductive system	http://purl.obolibrary.org/obo/UBERON_0000
 tissue supergroup	respiratory system	http://purl.obolibrary.org/obo/UBERON_0001004	E-MTAB-3358	10075-102A3	Maria Keays	22/06/2015 16:10
 tissue supergroup	sensory system	http://purl.obolibrary.org/obo/UBERON_0001032	E-MTAB-3358	10054-101G9	Maria Keays	22/06/2015 16:10
 treatment	1-naphthylacetic acid	http://purl.obolibrary.org/obo/CHEBI_32918	E-GEOD-17479	GSM435939	Maria Keays	22/06/2015 16:10
-cell line	H322T	http://www.ebi.ac.uk/efo/EFO_0006413	E-MTAB-2706	Sample 270	Maria Keays	22/06/2015 17:46
+cell line	H322T	http://www.ebi.ac.uk/efo/EFO_0006691	E-MTAB-2706	Sample 270	Maria Keays	22/06/2015 17:46
 cell line	HCA-7	http://www.ebi.ac.uk/efo/EFO_0006415	E-MTAB-2706	Sample 433	Maria Keays	22/06/2015 17:46
 cell line	HCC1011	http://www.ebi.ac.uk/efo/EFO_0006422	E-MTAB-2706	Sample 499	Maria Keays	22/06/2015 17:46
 cell line	HCC1162	http://www.ebi.ac.uk/efo/EFO_0006423	E-MTAB-2706	Sample 422	Maria Keays	22/06/2015 17:46
@@ -22115,7 +22115,7 @@ infect	Pseudomonas syringae pv. tomato str. DC3000, 3 day	http://purl.obolibrary
 infect	Puccinia striiformis f. sp. tritici	http://purl.obolibrary.org/obo/NCBITaxon_168172	E-MTAB-4289	SRR1228246	Laura Huerta	30/03/2016 09:30
 infect	Sporisorium reilianum f. sp. zeae	http://purl.obolibrary.org/obo/NCBITaxon_72740	E-GEOD-40952	SRR572424	Laura Huerta	30/03/2016 09:30
 infect	Trichoderma harzianum	http://purl.obolibrary.org/obo/NCBITaxon_5544	E-MTAB-4324	SRR520379	Laura Huerta	30/03/2016 09:30
-infect	Trichoderma harzianum and Plasmopara viticola	http://purl.obolibrary.org/obo/NCBITaxon_5544|http://purl.obolibrary.org/obo/NCBITaxon_143451	E-MTAB-4324	SRR520388	Laura Huerta	30/03/2016 09:30
+infect	Trichoderma harzianum and Plasmopara viticola	http://purl.obolibrary.org/obo/NCBITaxon_143451|http://purl.obolibrary.org/obo/NCBITaxon_5544	E-MTAB-4324	SRR520388	Laura Huerta	30/03/2016 09:30
 infect	Triticum mosaic virus	http://purl.obolibrary.org/obo/NCBITaxon_431317	E-GEOD-54026	SRR1106886	Laura Huerta	30/03/2016 09:30
 infect	Wheat streak mosaic virus	http://purl.obolibrary.org/obo/NCBITaxon_31741	E-GEOD-54026	SRR1106885	Laura Huerta	30/03/2016 09:30
 infect	Wheat streak mosaic virus and Triticum mosaic virus	http://purl.obolibrary.org/obo/NCBITaxon_31741|http://purl.obolibrary.org/obo/NCBITaxon_431317	E-GEOD-54026	SRR1106892	Laura Huerta	30/03/2016 09:30
@@ -23332,7 +23332,7 @@ organism part	retinal pigment epithelium	http://purl.obolibrary.org/obo/UBERON_0
 organism part	Root Apical Meristem	http://purl.obolibrary.org/obo/PO_0020147	E-MEXP-2912	H_WT MS_1	Laura Huerta	19/04/2016 18:00
 organism part	root meristematic region	http://purl.obolibrary.org/obo/PO_0006085	E-GEOD-9996	Regenerating Stump of Root Tip Cut at 130 mm first and then Recut after 0 hrs Taking 70 mm of Stump (4dpg) rep2	Laura Huerta	19/04/2016 18:00
 organism part	skin of lower leg	http://purl.obolibrary.org/obo/UBERON_0004264	E-MTAB-2919	SRR1092087	Laura Huerta	19/04/2016 18:00
-organism part	skin of suprapubic region	http://purl.obolibrary.org/obo/UBERON_0013203	E-MTAB-2919	SRR810551	Laura Huerta	19/04/2016 18:00
+organism part	skin of suprapubic region	http://purl.obolibrary.org/obo/UBERON_0036149	E-MTAB-2919	SRR810551	Laura Huerta	19/04/2016 18:00
 organism part	skull	http://purl.obolibrary.org/obo/UBERON_0003129	E-GEOD-55282	SRR1175204	Laura Huerta	19/04/2016 18:00
 organism part	subcutaneous adipose tissue	http://purl.obolibrary.org/obo/UBERON_0002190	E-GEOD-44000	GSM1076335	Laura Huerta	19/04/2016 18:00
 organism part	subcutaneous adipose tissue	http://purl.obolibrary.org/obo/UBERON_0002190	E-MEXP-1636	SC6	Laura Huerta	19/04/2016 18:00
@@ -24870,7 +24870,7 @@ organism part	zone of skin	http://purl.obolibrary.org/obo/UBERON_0000014	E-MTAB-
 organism part	zone of skin	http://purl.obolibrary.org/obo/UBERON_0000014	E-MTAB-3358	DRR009595	Laura Huerta	05/01/2017 10:00
 organism part	zone of skin	http://purl.obolibrary.org/obo/UBERON_0000014	E-MTAB-3579	DRR009951	Laura Huerta	05/01/2017 10:00
 tissue supergroup	zone of skin	http://purl.obolibrary.org/obo/UBERON_0000014	E-MTAB-2706	ERR413709	Laura Huerta	05/01/2017 10:00
-compound	50 millimolar hydrogen peroxide and 1 micromolar brassinolide	http://purl.obolibrary.org/obo/CHEBI_28277	E-GEOD-20756	GSM520762	Laura Huerta	05/01/2017 10:00
+compound	50 millimolar hydrogen peroxide and 1 micromolar brassinolide	http://purl.obolibrary.org/obo/CHEBI_28277|http://purl.obolibrary.org/obo/CHEBI_16240	E-GEOD-20756	GSM520762	Laura Huerta	05/01/2017 10:00
 cell line	H322T	http://www.ebi.ac.uk/efo/EFO_0006691	E-MTAB-2706	ERR413516	Laura Huerta	05/01/2017 10:00
 organism	Arabidopsis lyrata	http://purl.obolibrary.org/obo/NCBITaxon_59689	E-MTAB-5072	SRR891324	Laura Huerta	05/01/2017 10:00
 strain	BALB	http://www.ebi.ac.uk/efo/EFO_0000602	E-GEOD-3100	BALB_Male_CF_rep1	Laura Huerta	05/01/2017 10:00
@@ -27430,7 +27430,7 @@ disease	spinal muscular atrophy	http://www.ebi.ac.uk/efo/EFO_0008525	E-GEOD-6254
 disease	testicular germ cell tumor	http://www.ebi.ac.uk/efo/EFO_1000566	E-MTAB-3983	ERR975460	Laura Huerta	13/08/2018 12:00
 disease	unspecified peripheral T-cell lymphoma	http://www.ebi.ac.uk/efo/EFO_0000211	E-MTAB-6401	SAMPLE11_OK10_N8861	Laura Huerta	13/08/2018 12:00
 organism part	cerebral meninges	http://purl.obolibrary.org/obo/UBERON_0010743	E-GEOD-67644	GSM1652597	Laura Huerta	13/08/2018 12:00
-cell line	Human Mammary Epithelial Cell	http://purl.obolibrary.org/obo/CL_0002327	E-GEOD-9649	HMEC Lactic Acidosis 3	Laura Huerta	13/08/2018 12:00
+cell line	Human Mammary Epithelial Cell	http://purl.obolibrary.org/obo/BTO_0002178	E-GEOD-9649	HMEC Lactic Acidosis 3	Laura Huerta	13/08/2018 12:00
 organism part	medulla	http://purl.obolibrary.org/obo/UBERON_0000958	E-GEOD-66354	GSM1620296	Laura Huerta	13/08/2018 12:00
 organism part	septum	http://purl.obolibrary.org/obo/PO_0000030	E-MTAB-4837	SRR654026	Laura Huerta	13/08/2018 12:00
 cell type	umbilical vein endothelial cell	http://purl.obolibrary.org/obo/CL_0002618	E-GEOD-20745	GSM520629	Laura Huerta	13/08/2018 12:00
@@ -27443,3 +27443,222 @@ disease	steatosis	http://www.ebi.ac.uk/efo/EFO_0008527	E-GEOD-70681	GSM1816398	L
 disease staging	chronic hepatitis	http://www.ebi.ac.uk/efo/EFO_0008496	E-GEOD-19665	GSM490989	Laura Huerta	16/08/2018 12:00
 infect	Globodera rostochiensis	http://purl.obolibrary.org/obo/NCBITaxon_31243	E-MTAB-5215	ERR2190279	Laura Huerta	16/08/2018 12:00
 infect	Streptococcus pneumoniae CGSP14	http://purl.obolibrary.org/obo/NCBITaxon_516950	E-MTAB-6491	12D39s	Laura Huerta	16/08/2018 12:00
+disease	primary-progressive multiple sclerosis	http://www.ebi.ac.uk/efo/EFO_0008520	E-GEOD-23205	GSM570905	Silvie Fexova	16/10/18 16:18
+disease	medulloblastoma, large-cell	http://www.ebi.ac.uk/efo/EFO_0008508	E-GEOD-35493	GSM869683	Silvie Fexova	16/10/18 16:19
+disease	bladder transitional cell carcinoma	http://www.ebi.ac.uk/efo/EFO_0006544	E-MTAB-5200	run_133	Anja Fullgrabe	16/10/18 14:00
+disease	bladder transitional cell carcinoma	http://www.ebi.ac.uk/efo/EFO_0006544	E-MTAB-5423	run_290	Anja Fullgrabe	16/10/18 14:00
+cell line	E14	http://www.ebi.ac.uk/efo/EFO_0007075	E-ERAD-132	ERR779695	Anja Fullgrabe	16/10/18 14:00
+cell line	EA.hy 926	http://www.ebi.ac.uk/efo/EFO_0003039	E-GEOD-31986	GSM792309	Anja Fullgrabe	16/10/18 14:00
+cell line	MCF-10A	http://www.ebi.ac.uk/efo/EFO_0001200	E-GEOD-59765	SRR1525239	Anja Fullgrabe	16/10/18 14:00
+cell line	MCF-10A	http://www.ebi.ac.uk/efo/EFO_0001200	E-GEOD-63452	SRR1657051	Anja Fullgrabe	16/10/18 14:00
+cell line	SCC25	http://www.ebi.ac.uk/efo/EFO_0006483	E-MTAB-3295	MC2_190712	Anja Fullgrabe	16/10/18 14:00
+cell line	SKI-DLCL	http://www.ebi.ac.uk/efo/EFO_0005460	E-GEOD-5681	SKI-DLCL cells_Aplidin 1.5nM AraC 5nM_24h_rpt1	Anja Fullgrabe	16/10/18 14:00
+cell line	SU86.86	http://www.ebi.ac.uk/efo/EFO_0006494	E-GEOD-45757	GSM1113745	Anja Fullgrabe	16/10/18 14:00
+cell line	SU86.86	http://www.ebi.ac.uk/efo/EFO_0006494	E-GEOD-45758	GSM1113830	Anja Fullgrabe	16/10/18 14:00
+cell line	U2932	http://www.ebi.ac.uk/efo/EFO_0006499	E-GEOD-56235	SRR1205286	Anja Fullgrabe	16/10/18 14:00
+cell type	adipocytes	http://purl.obolibrary.org/obo/CL_0000136	E-PROT-3	adipocytes from soft tissue 2	Anja Fullgrabe	16/10/18 14:00
+cell type	fibroblasts	http://purl.obolibrary.org/obo/CL_0000057	E-PROT-3	fibroblasts from skin 1	Anja Fullgrabe	16/10/18 14:00
+cell type	glial cells	http://purl.obolibrary.org/obo/CL_0000125	E-PROT-3	glial cells from hippocampus	Anja Fullgrabe	16/10/18 14:00
+cell type	guard cell	http://purl.obolibrary.org/obo/CL_0000292	E-GEOD-37408	GSM918081	Anja Fullgrabe	16/10/18 14:00
+cell type	immature conventional dendritic cell	http://purl.obolibrary.org/obo/CL_0000840	E-MTAB-6937	A1	Anja Fullgrabe	16/10/18 14:00
+cell type	mature conventional dendritic cell	http://purl.obolibrary.org/obo/CL_0000841	E-MTAB-6937	E2	Anja Fullgrabe	16/10/18 14:00
+cell type	medullary epithelial cell	http://purl.obolibrary.org/obo/CL_0002365	E-GEOD-62741	SRR1631771	Anja Fullgrabe	16/10/18 14:00
+cell type	MEFs	http://www.ebi.ac.uk/efo/EFO_0004037	E-GEOD-47777	GSM1159582	Anja Fullgrabe	16/10/18 14:00
+cell type	mesenchymal stem cell of the bone marrow	http://purl.obolibrary.org/obo/CL_0002540	E-MTAB-6849	ERR2672653	Anja Fullgrabe	16/10/18 14:00
+cell type	na??ve CD4+ T cell	http://purl.obolibrary.org/obo/CL_0000895	E-GEOD-46892	GSM1139901	Anja Fullgrabe	16/10/18 14:00
+cell type	naive CD4+ T Cells	http://purl.obolibrary.org/obo/CL_0000895	E-GEOD-21379	GSM418234	Anja Fullgrabe	16/10/18 14:00
+cell type	neuronal cells	http://purl.obolibrary.org/obo/CL_0000540	E-PROT-3	neuronal cells from lateral ventricle	Anja Fullgrabe	16/10/18 14:00
+cell type	neutrophils	http://purl.obolibrary.org/obo/CL_0000775	E-GEOD-60424	SRR1551068	Anja Fullgrabe	16/10/18 14:00
+cell type	normal human pancreatic ductal epithelial cells	http://purl.obolibrary.org/obo/CL_0002079	E-GEOD-45757	GSM1113672	Anja Fullgrabe	16/10/18 14:00
+growth condition	anti-CD3 antibody	http://www.ebi.ac.uk/efo/EFO_0003317	E-MEXP-1237	WT1-CD3	Anja Fullgrabe	16/10/18 14:00
+growth condition	exercised	http://www.ebi.ac.uk/efo/EFO_0000483	E-GEOD-37922	GSM929942	Anja Fullgrabe	16/10/18 14:00
+growth condition	UV	http://purl.obolibrary.org/obo/EO_0007222	E-GEOD-51161	GSM1239886	Anja Fullgrabe	16/10/18 14:00
+growth condition	UV irradiation	http://purl.obolibrary.org/obo/EO_0007222	E-GEOD-51162	GSM1239894	Anja Fullgrabe	16/10/18 14:00
+growth condition	logarithmic phase culture	http://purl.obolibrary.org/obo/BTO_0001903	E-MTAB-6634	Control3	Anja Fullgrabe	16/10/18 14:00
+infect	H1N1 influenza A	http://www.ebi.ac.uk/efo/EFO_1001488	E-MTAB-3866	Sample_4	Anja Fullgrabe	16/10/18 14:00
+infect	Helicobacter hepaticus	http://purl.obolibrary.org/obo/NCBITaxon_32025	E-MTAB-7076	ERR2713073	Anja Fullgrabe	16/10/18 14:00
+infect	Phytophthera infestans	http://purl.obolibrary.org/obo/NCBITaxon_4787	E-GEOD-5616	AtGen_C-13_1-Pi-12_REP1_ATH1	Anja Fullgrabe	16/10/18 14:00
+infect	Salmonella enterica subsp. enterica serovar Typhimurium	http://purl.obolibrary.org/obo/NCBITaxon_90371	E-MTAB-7232	ERR2810810	Anja Fullgrabe	16/10/18 14:00
+metatastic tissue	effusion, pleural	http://purl.obolibrary.org/obo/UBERON_0000175	E-MTAB-2706	ERR413747	Anja Fullgrabe	16/10/18 14:00
+organism part	endocrine pancreas	http://purl.obolibrary.org/obo/UBERON_0000016	E-MTAB-6329	ERR2228119	Anja Fullgrabe	16/10/18 14:00
+organism part	foreskin	http://purl.obolibrary.org/obo/UBERON_0001332	E-GEOD-41678	GSM1022379	Anja Fullgrabe	16/10/18 14:00
+organism part	foreskin	http://purl.obolibrary.org/obo/UBERON_0001332	E-GEOD-57518	GSM1384128	Anja Fullgrabe	16/10/18 14:00
+organism part	foreskin	http://purl.obolibrary.org/obo/UBERON_0001332	E-GEOD-57864	GSM1395251	Anja Fullgrabe	16/10/18 14:00
+organism part	testes	http://purl.obolibrary.org/obo/UBERON_0000473	E-GEOD-41895	GSM1027103	Anja Fullgrabe	16/10/18 14:00
+organism part	testes	http://purl.obolibrary.org/obo/UBERON_0000473	E-GEOD-42230	GSM1035953	Anja Fullgrabe	16/10/18 14:00
+organism part	testes	http://purl.obolibrary.org/obo/UBERON_0000473	E-GEOD-63362	GSM1547468	Anja Fullgrabe	16/10/18 14:00
+protocol	Ribo-Seq	http://www.ebi.ac.uk/efo/EFO_0008891	E-MTAB-6963	ERR2681846	Anja Fullgrabe	16/10/18 14:00
+protocol	Formalin-fixed paraffin-embedded tissue	http://purl.obolibrary.org/obo/OBI_0000950	E-GEOD-19249	GSM477785	Anja Fullgrabe	16/10/18 14:00
+strain	C57BL/6 J	http://www.ebi.ac.uk/efo/EFO_0000606	E-GEOD-71695	GSM1843264	Anja Fullgrabe	16/10/18 14:00
+strain	NZO/H1LtJ	http://www.ebi.ac.uk/efo/EFO_0007729	E-GEOD-63756	SRR1686905	Anja Fullgrabe	16/10/18 14:00
+compound	N-acetylcysteine	http://purl.obolibrary.org/obo/CHEBI_28939	E-MTAB-4398	ERR1247142	Anja Fullgrabe	16/10/18 14:00
+compound	(-)-methyl jasmonate	http://purl.obolibrary.org/obo/CHEBI_15929	E-MTAB-5413	ERR1806552	Anja Fullgrabe	16/10/18 14:00
+compound	carboplatin	http://purl.obolibrary.org/obo/CHEBI_31355	E-MTAB-6872	ERR2653336	Anja Fullgrabe	16/10/18 14:00
+compound	vitamin D	http://purl.obolibrary.org/obo/CHEBI_27300	E-MTAB-6937	E1	Anja Fullgrabe	16/10/18 14:00
+compound	ochratoxin A	http://purl.obolibrary.org/obo/CHEBI_7719	E-MTAB-7048	D-IMU-1-119-OA-130-1D2R-8	Anja Fullgrabe	16/10/18 14:00
+compound	potassium bromate	http://purl.obolibrary.org/obo/CHEBI_38211	E-MTAB-7048	D-IMU-1-124-KB-800-3D1R-13	Anja Fullgrabe	16/10/18 14:00
+compound	chlorpromazine	http://purl.obolibrary.org/obo/CHEBI_3647	E-MTAB-7232	ERR2810772	Anja Fullgrabe	16/10/18 14:00
+disease	Myocardial Ischemia	http://www.ebi.ac.uk/efo/EFO_1001375	E-MTAB-6460	ERR2733182	Anja Fullgrabe	16/10/18 14:00
+disease	B-cell non-Hodgkin lymphoma	http://www.ebi.ac.uk/efo/EFO_1001938	E-MTAB-5423	run_610	Anja Fullgrabe	16/10/18 14:00
+disease	B-cell non-Hodgkin lymphoma	http://www.ebi.ac.uk/efo/EFO_1001938	E-MTAB-5200	run_188	Anja Fullgrabe	16/10/18 14:00
+disease	acute lymphoblastic (T-ALL) leukemia	http://www.ebi.ac.uk/efo/EFO_0000209	E-GEOD-48433	GSM1178013	Anja Fullgrabe	16/10/18 14:00
+disease	ovarian cystadenocarcinoma	http://www.ebi.ac.uk/efo/EFO_1001962	E-MTAB-2770	run_EFO_21.1	Anja Fullgrabe	16/10/18 14:00
+disease	primary-progressive multiple sclerosis	http://www.ebi.ac.uk/efo/EFO_0008520	E-GEOD-23205	GSM570905	Anja Fullgrabe	16/10/18 14:00
+disease	sporadic ALS	http://www.ebi.ac.uk/efo/EFO_0001357	E-GEOD-52946	SRR1042019	Anja Fullgrabe	16/10/18 14:00
+disease	familial ALS	http://www.ebi.ac.uk/efo/EFO_0001356	E-GEOD-52946	SRR1042021	Anja Fullgrabe	16/10/18 14:00
+disease staging	dysplasia	http://www.ebi.ac.uk/efo/EFO_0008501	E-GEOD-30784	GSM764974	Anja Fullgrabe	16/10/18 14:00
+ecotype	Ler-1	http://www.ebi.ac.uk/efo/EFO_0005155	E-MTAB-6123	H1003446_JGL1157-34_59994	Anja Fullgrabe	16/10/18 14:00
+ethnic group	Asian ancestry	http://purl.obolibrary.org/obo/HANCESTRO_0008	E-GEOD-52463	SRR1297310	Anja Fullgrabe	16/10/18 14:00
+ethnic group	European ancestry	http://purl.obolibrary.org/obo/HANCESTRO_0005	E-GEOD-52463	SRR1297314	Anja Fullgrabe	16/10/18 14:00
+ethnic group	Native American	http://purl.obolibrary.org/obo/HANCESTRO_0013	E-GEOD-75011	SRR2922156	Anja Fullgrabe	16/10/18 14:00
+clinical treatment	transverse aortic constriction	http://www.ebi.ac.uk/efo/EFO_0000266	E-GEOD-1621	10 days TAC-2	Nancy George	16/10/2018 15:50
+compound	5-Aza	http://purl.obolibrary.org/obo/CHEBI_50131	E-GEOD-41364	GSM1015547	Nancy George	16/10/2018 15:50
+compound	5-aza-deoxy-cytidine	http://purl.obolibrary.org/obo/CHEBI_50131	E-GEOD-41586	SRR592578	Nancy George	16/10/2018 15:50
+compound	2,4-dinitrophenol	http://purl.obolibrary.org/obo/CHEBI_42017	E-GEOD-5509	GSM127064	Nancy George	16/10/2018 15:50
+compound	recombinant tumor necrosis factor-alpha	http://www.ebi.ac.uk/efo/EFO_0003271	E-MTAB-1311	13674_RLAK_230 hybridization	Nancy George	16/10/2018 15:50
+disease	lobular breast cancer	http://www.ebi.ac.uk/efo/EFO_0008509	E-GEOD-55529	GSM1338715	Silvie Fexova	17/10/18 12:30
+disease	urothelial carcinoma	http://www.ebi.ac.uk/efo/EFO_0008528	E-MTAB-1940	FR_354_U133_2.CEL	Silvie Fexova	17/10/18 12:30
+disease	promyelocytic leukemia	http://www.ebi.ac.uk/efo/EFO_0000224	E-GEOD-48433	GSM1178191	Silvie Fexova	17/10/18 12:30
+disease	T-cell lymphoblastic leukemia	http://www.ebi.ac.uk/efo/EFO_0000209	E-GEOD-51258	GSM1241305	Silvie Fexova	17/10/18 12:30
+cell line	A-549 cell	http://purl.obolibrary.org/obo/BTO_0000018	E-PROT-25	ppb.iBAQ.A.549_1_Gholami	Anja Fullgrabe	25/01/19 11:00
+cell type	adipose tissue derived mesenchymal stem cell	http://www.ebi.ac.uk/efo/EFO_0005023	E-MTAB-7177	Raw_data_52078100929382020215419332913395	Anja Fullgrabe	25/01/19 11:00
+progenitor cell type	adipose tissue derived mesenchymal stem cell	http://www.ebi.ac.uk/efo/EFO_0005023	E-MTAB-6345	ERR2238969	Anja Fullgrabe	25/01/19 11:00
+organism part	blood component	http://www.ebi.ac.uk/efo/EFO_0001941	E-PROT-25	ppb.iBAQ.SR_1_Gholami	Anja Fullgrabe	25/01/19 11:00
+cell type	bronchial smooth muscle cell	http://purl.obolibrary.org/obo/CL_0002598	E-MTAB-7346	ASM20	Anja Fullgrabe	25/01/19 11:00
+cell type	bronchial smooth muscle cell	http://purl.obolibrary.org/obo/CL_0002598	E-MTAB-7406	ASM16	Anja Fullgrabe	25/01/19 11:00
+cell line	CAL120	http://www.ebi.ac.uk/efo/EFO_0005356	E-MTAB-6647	ERR2929094	Anja Fullgrabe	25/01/19 11:00
+organism part	colorectum	http://purl.obolibrary.org/obo/UBERON_0012652	E-MTAB-7354	615	Anja Fullgrabe	25/01/19 11:00
+organism part	colorectum	http://purl.obolibrary.org/obo/UBERON_0012652	E-PROT-18	ppb.iBAQ.HRA19_1_Wang	Anja Fullgrabe	25/01/19 11:00
+organism part	colorectum	http://purl.obolibrary.org/obo/UBERON_0012652	E-PROT-24	ppb.iBAQ.CACO2_1_Frejno	Anja Fullgrabe	25/01/19 11:00
+organism part	colorectum	http://purl.obolibrary.org/obo/UBERON_0012652	E-PROT-25	ppb.iBAQ.HCC2998_1_Gholami	Anja Fullgrabe	25/01/19 11:00
+disease	connective tissue disease	http://www.ebi.ac.uk/efo/EFO_1001986	E-MTAB-7080	ERR2716266	Anja Fullgrabe	25/01/19 11:00
+organism part	embryonic central brain glia	http://purl.obolibrary.org/obo/FBbt_00005663	E-PROT-25	ppb.iBAQ.SNB75_1_Gholami	Anja Fullgrabe	25/01/19 11:00
+organism part	epithelium of bronchiole	http://purl.obolibrary.org/obo/UBERON_0002051	E-PROT-25	ppb.iBAQ.H23_1_Gholami	Anja Fullgrabe	25/01/19 11:00
+organism part	female gonad	http://purl.obolibrary.org/obo/UBERON_0000992	E-MTAB-6366	083115JR01	Anja Fullgrabe	25/01/19 11:00
+cell type	group 3 innate lymphoid cell	http://purl.obolibrary.org/obo/CL_0001071	E-MTAB-7088	ERR2716252	Anja Fullgrabe	25/01/19 11:00
+disease	HER2 Positive Breast Carcinoma	http://www.ebi.ac.uk/efo/EFO_1000294	E-PROT-27	ppb.iBAQ.L.Tumour.Her2BC_43_Tyanova_Her2_T2N3M0_Grade3	Anja Fullgrabe	25/01/19 11:00
+cell line	HOP62	http://www.ebi.ac.uk/efo/EFO_0006439	E-PROT-25	ppb.iBAQ.HOP62_1_Gholami	Anja Fullgrabe	25/01/19 11:00
+cell line	HOP92	http://www.ebi.ac.uk/efo/EFO_0006440	E-PROT-25	ppb.iBAQ.HOP92_1_Gholami	Anja Fullgrabe	25/01/19 11:00
+environmental stress	hypoxia	http://www.ebi.ac.uk/efo/EFO_0009444	E-GEOD-9649	HMEC Hypoxia 1	Anja Fullgrabe	25/01/19 11:00
+environmental stress	hypoxia	http://www.ebi.ac.uk/efo/EFO_0009444	E-MTAB-6647	ERR2929086	Anja Fullgrabe	25/01/19 11:00
+environmental stress	hypoxia	http://www.ebi.ac.uk/efo/EFO_0009444	E-MTAB-7354	605	Anja Fullgrabe	25/01/19 11:00
+growth condition	hypoxia	http://www.ebi.ac.uk/efo/EFO_0009444	E-GEOD-23846	GSM587913	Anja Fullgrabe	25/01/19 11:00
+growth condition	hypoxia	http://www.ebi.ac.uk/efo/EFO_0009444	E-GEOD-27475	GSM678849	Anja Fullgrabe	25/01/19 11:00
+growth condition	hypoxia	http://www.ebi.ac.uk/efo/EFO_0009444	E-GEOD-29187	GSM722175	Anja Fullgrabe	25/01/19 11:00
+growth condition	hypoxia	http://www.ebi.ac.uk/efo/EFO_0009444	E-GEOD-30979	GSM767783	Anja Fullgrabe	25/01/19 11:00
+growth condition	hypoxia	http://www.ebi.ac.uk/efo/EFO_0009444	E-GEOD-491	PGA-RNE-FFH1d-1aUA-s2	Anja Fullgrabe	25/01/19 11:00
+growth condition	hypoxia	http://www.ebi.ac.uk/efo/EFO_0009444	E-GEOD-6863	iDC hypoxia 8	Anja Fullgrabe	25/01/19 11:00
+growth condition	hypoxia	http://www.ebi.ac.uk/efo/EFO_0009444	E-GEOD-9350	GSM238024	Anja Fullgrabe	25/01/19 11:00
+treatment	hypoxia	http://www.ebi.ac.uk/efo/EFO_0009444	E-MEXP-2189	B43	Anja Fullgrabe	25/01/19 11:00
+treatment	hypoxia	http://www.ebi.ac.uk/efo/EFO_0009444	E-MEXP-2863	hypoxia 1 week_1 a	Anja Fullgrabe	25/01/19 11:00
+treatment	hypoxia	http://www.ebi.ac.uk/efo/EFO_0009444	E-MTAB-4609	14_EPDC_d9635_hypoxia	Anja Fullgrabe	25/01/19 11:00
+growth condition	Hypoxia	http://www.ebi.ac.uk/efo/EFO_0009444	E-MTAB-3645	Daughter_hyp_cis_1	Anja Fullgrabe	25/01/19 11:00
+organism part	internal ear	http://purl.obolibrary.org/obo/UBERON_0001846	E-MTAB-7414	ERR2930206	Anja Fullgrabe	25/01/19 11:00
+growth condition	ketogenic diet	http://www.ebi.ac.uk/efo/EFO_0009371	E-GEOD-1155	NINDS-RED-KDiet-2aA-s2	Anja Fullgrabe	25/01/19 11:00
+organism part	longissimus thoracic muscle	http://purl.obolibrary.org/obo/UBERON_0001401	E-MTAB-7517	ERR2986615	Anja Fullgrabe	25/01/19 11:00
+cell line	LOXIMVI	http://www.ebi.ac.uk/efo/EFO_0006284	E-PROT-25	ppb.iBAQ.LOX.IMVI_1_Gholami	Anja Fullgrabe	25/01/19 11:00
+organism part	lung epithelium	http://purl.obolibrary.org/obo/UBERON_0000115	E-MTAB-6432	ERR2276417	Anja Fullgrabe	25/01/19 11:00
+organism part	lymphatic part of lymphoid system	http://purl.obolibrary.org/obo/UBERON_0006558	E-PROT-25	ppb.iBAQ.CCRF.CEM_1_Gholami	Anja Fullgrabe	25/01/19 11:00
+cell line	MDAMB157	http://www.ebi.ac.uk/efo/EFO_0001206	E-PROT-22	ppb.iBAQ.MDAMB157_1_Lawrence	Anja Fullgrabe	25/01/19 11:00
+cell line	MDAMB435	http://www.ebi.ac.uk/efo/EFO_0001213	E-PROT-25	ppb.iBAQ.MDAMB231_1_Gholami	Anja Fullgrabe	25/01/19 11:00
+cell type	mucosal invariant T cell	http://purl.obolibrary.org/obo/CL_0000940	E-MTAB-7143	ERR2734915	Anja Fullgrabe	25/01/19 11:00
+disease	Nephronophthisis	http://www.orpha.net/ORDO/Orphanet_655	E-MTAB-7077	ERR2713045	Anja Fullgrabe	25/01/19 11:00
+cell line	OVCAR3	http://www.ebi.ac.uk/efo/EFO_0003061	E-PROT-25	ppb.iBAQ.OVCAR.3_1_Gholami	Anja Fullgrabe	25/01/19 11:00
+cell line	OVCAR3	http://www.ebi.ac.uk/efo/EFO_0003061	E-PROT-28	ppb.iBAQ.OVCAR.3_2_Coscia	Anja Fullgrabe	25/01/19 11:00
+cell line	OVCAR4	http://www.ebi.ac.uk/efo/EFO_0005442	E-PROT-25	ppb.iBAQ.OVCAR.4_1_Gholami	Anja Fullgrabe	25/01/19 11:00
+cell line	OVCAR5	http://www.ebi.ac.uk/efo/EFO_0005443	E-PROT-25	ppb.iBAQ.OVCAR.5_1_Gholami	Anja Fullgrabe	25/01/19 11:00
+cell line	OVCAR5	http://www.ebi.ac.uk/efo/EFO_0005443	E-PROT-28	ppb.iBAQ.OVCAR.5_1_Coscia	Anja Fullgrabe	25/01/19 11:00
+disease	Pleural Epithelioid Mesothelioma	http://www.ebi.ac.uk/efo/EFO_1000484	E-PROT-25	ppb.iBAQ.H226_1_Gholami	Anja Fullgrabe	25/01/19 11:00
+organism part	proximal renal artery	http://www.ebi.ac.uk/efo/EFO_0002594	E-PROT-25	ppb.iBAQ.RXF393L_1_Gholami_deepProteome	Anja Fullgrabe	25/01/19 11:00
+infect	Rickettsia conorii	http://purl.obolibrary.org/obo/NCBITaxon_781	E-MTAB-6724	ERR2538789	Anja Fullgrabe	25/01/19 11:00
+organism part	seminiferous tubules	http://www.ebi.ac.uk/efo/EFO_0001404	E-MTAB-7277	ERR2834310	Anja Fullgrabe	25/01/19 11:00
+cell line	SF295	http://www.ebi.ac.uk/efo/EFO_0005452	E-PROT-25	ppb.iBAQ.SF295_1_Gholami	Anja Fullgrabe	25/01/19 11:00
+cell type	skeletal muscle myoblast	http://purl.obolibrary.org/obo/CL_0000515	E-MTAB-7287	ERR2840882	Anja Fullgrabe	25/01/19 11:00
+cell type	skeletal muscle myoblast	http://purl.obolibrary.org/obo/CL_0000515	E-MTAB-7614	Mouse_5_VGLL3_24	Anja Fullgrabe	25/01/19 11:00
+cell line	SW527	http://www.ebi.ac.uk/efo/EFO_0005462	E-PROT-22	ppb.iBAQ.SW527_1_Lawrence	Anja Fullgrabe	25/01/19 11:00
+cell line	Human Mammary Epithelial Cell	http://purl.obolibrary.org/obo/BTO_0002178	E-GEOD-9649	HMEC Acidosis 2	Anja Fullgrabe	25/01/19 11:00
+cell line	46C	http://www.ebi.ac.uk/efo/EFO_0005484	E-GEOD-81849	SRR3584321	Anja Fullgrabe	25/01/19 11:00
+cell line	46C	http://www.ebi.ac.uk/efo/EFO_0005484	E-MTAB-4893	ERR1735566	Anja Fullgrabe	25/01/19 11:00
+disease	high grade ovarian serous carcinoma	http://www.ebi.ac.uk/efo/EFO_1001958	E-MTAB-7083	SC-51	Anja Fullgrabe	25/01/19 11:00
+organism part	renal tubule	http://purl.obolibrary.org/obo/UBERON_0001231	E-MTAB-7077	ERR2713048	Anja Fullgrabe	25/01/19 11:00
+genetic modification	deletion	http://www.ebi.ac.uk/efo/EFO_0004014	E-MTAB-6963	ERR2681847	Anja Fullgrabe	25/01/19 11:00
+infect	Rhizoctonia solani	http://purl.obolibrary.org/obo/NCBITaxon_456999	E-MTAB-6402	ERR2261871	Anja Fullgrabe	25/01/19 11:00
+developmental stage	embryonic day 8.25	http://www.ebi.ac.uk/efo/EFO_0002561	E-MTAB-6336	ERR2238364	Anja Fullgrabe	25/01/19 11:00
+cell line	J774.2	http://purl.obolibrary.org/obo/BTO_0001030	E-PROT-7	J774.2.cellLine_Azimifar_NA	Anja Fullgrabe	25/01/19 11:00
+cell type	keratinocytes	http://purl.obolibrary.org/obo/CL_0000312	E-PROT-3	keratinocytes from skin 1	Anja Fullgrabe	25/01/19 11:00
+cell type	Leydig cells	http://purl.obolibrary.org/obo/CL_0000178	E-PROT-3	Leydig cells from testis	Anja Fullgrabe	25/01/19 11:00
+cell type	macrophages	http://purl.obolibrary.org/obo/CL_0000235	E-PROT-3	macrophages from lung	Anja Fullgrabe	25/01/19 11:00
+cell type	melanocytes	http://purl.obolibrary.org/obo/CL_0000148	E-PROT-3	melanocytes from skin 1	Anja Fullgrabe	25/01/19 11:00
+cell type	follicle cells	http://purl.obolibrary.org/obo/CL_0000477	E-PROT-3	follicle cells from ovary	Anja Fullgrabe	25/01/19 11:00
+cell type	chondrocytes	http://purl.obolibrary.org/obo/CL_0000138	E-PROT-3	chondrocytes from soft tissue 1	Anja Fullgrabe	25/01/19 11:00
+cell line	COLO741	http://www.ebi.ac.uk/efo/EFO_0006375	E-PROT-24	ppb.iBAQ.COLO.741_1_Frejno	Anja Fullgrabe	25/01/19 11:00
+cell line	COLO678	http://www.ebi.ac.uk/efo/EFO_0006371	E-PROT-24	ppb.iBAQ.COLO.678_1_Frejno	Anja Fullgrabe	25/01/19 11:00
+cell line	HCA7	http://www.ebi.ac.uk/efo/EFO_0006415	E-PROT-24	ppb.iBAQ.HCA7_1_Frejno	Anja Fullgrabe	25/01/19 11:00
+cell line	LS180	http://www.ebi.ac.uk/efo/EFO_0006640	E-PROT-24	ppb.iBAQ.LS180_1_Frejno	Anja Fullgrabe	25/01/19 11:00
+cell line	RCM1	http://www.ebi.ac.uk/efo/EFO_0006476	E-PROT-24	ppb.iBAQ.RCM1_1_Frejno	Anja Fullgrabe	25/01/19 11:00
+cell line	CAR1	http://www.ebi.ac.uk/efo/EFO_0006548	E-PROT-24	ppb.iBAQ.CAR1_1_Frejno	Anja Fullgrabe	25/01/19 11:00
+disease	rectal mucinous adenocarcinoma	http://www.ebi.ac.uk/efo/EFO_0009361	E-PROT-23	ppb.iBAQ.Tumour.RectalAdenocarcinoma.Mucinous_1_Zhang_READ	Anja Fullgrabe	25/01/19 11:00
+strain	CD 1 mus strain	http://www.ebi.ac.uk/efo/EFO_0005180	E-PROT-12	Motoneuron.primaryCells_Hornburg_NA	Anja Fullgrabe	25/01/19 11:00
+strain	FVB/N	http://www.ebi.ac.uk/efo/EFO_0007728	E-MTAB-921	mutant_1_hyb	Anja Fullgrabe	25/01/19 11:00
+organism part	olfactory brain	http://purl.obolibrary.org/obo/UBERON_0005366	E-MTAB-3579	DRR009923	Anja Fullgrabe	25/01/19 11:00
+organism part	wing imaginal disc	http://purl.obolibrary.org/obo/UBERON_6001778	E-MEXP-2753	H_LGLM_7.5days_2	Anja Fullgrabe	25/01/19 11:00
+strain	CD57BL/6	http://www.ebi.ac.uk/efo/EFO_0004472	E-GEOD-65913	GSM1610453	Anja Fullgrabe	25/01/19 11:00
+strain	FVB/N	http://www.ebi.ac.uk/efo/EFO_0007728	E-GEOD-35899	GSM877213	Anja Fullgrabe	25/01/19 11:00
+strain	FVB/N	http://www.ebi.ac.uk/efo/EFO_0007728	E-GEOD-43897	GSM1074130	Anja Fullgrabe	25/01/19 11:00
+strain	FVB/N	http://www.ebi.ac.uk/efo/EFO_0007728	E-GEOD-4512	WT2	Anja Fullgrabe	25/01/19 11:00
+strain	FVB/N	http://www.ebi.ac.uk/efo/EFO_0007728	E-GEOD-68921	SRR2027956	Anja Fullgrabe	25/01/19 11:00
+strain	FVB/N	http://www.ebi.ac.uk/efo/EFO_0007728	E-MTAB-2741	KS9__021110_Myo_30062010.CEL	Anja Fullgrabe	25/01/19 11:00
+strain	FVBN/J	http://www.ebi.ac.uk/efo/EFO_0007728	E-MTAB-7277	ERR2834311	Anja Fullgrabe	25/01/19 11:00
+disease	hyperthyroid	http://www.ebi.ac.uk/efo/EFO_0009189	E-MTAB-2029	heart_t3_24h_060308	Anja Fullgrabe	25/01/19 11:00
+disease	metastatic malignant melanoma	http://www.ebi.ac.uk/efo/EFO_0002617	E-GEOD-48433	GSM1177906	Anja Fullgrabe	25/01/19 11:00
+disease	Myotonic dystrophy	http://www.orpha.net/ORDO/Orphanet_206647	E-GEOD-67812	SRR1971631	Anja Fullgrabe	25/01/19 11:00
+disease	small cell carcinoma	http://www.ebi.ac.uk/efo/EFO_0008524	E-GEOD-20189	GSM506461	Anja Fullgrabe	25/01/19 11:00
+cell line	IM95	http://www.ebi.ac.uk/efo/EFO_0006446	E-MTAB-2770	run_IM95.5	Anja Fullgrabe	25/01/19 11:00
+cell line	Jurkat (Clone E6-1)	http://purl.obolibrary.org/obo/BTO_0001948	E-MEXP-1744	pMXmock_3	Anja Fullgrabe	25/01/19 11:00
+cell line	LC-2-ad	http://www.ebi.ac.uk/efo/EFO_0003140	E-MTAB-3983	ERR767021	Anja Fullgrabe	25/01/19 11:00
+cell line	LS-180	http://www.ebi.ac.uk/efo/EFO_0006640	E-MTAB-3983	ERR691407	Anja Fullgrabe	25/01/19 11:00
+cell line	LS-180	http://www.ebi.ac.uk/efo/EFO_0006640	E-PROT-6	CO_LS-180	Anja Fullgrabe	25/01/19 11:00
+cell line	Set2	http://www.ebi.ac.uk/efo/EFO_0006486	E-MTAB-3983	ERR983920	Anja Fullgrabe	25/01/19 11:00
+cell line	SW-620	http://www.ebi.ac.uk/efo/EFO_0002368	E-GEOD-48433	GSM1178648	Anja Fullgrabe	25/01/19 11:00
+cell line	TK10	http://www.ebi.ac.uk/efo/EFO_0006765	E-MTAB-3983	ERR905183	Anja Fullgrabe	25/01/19 11:00
+cell line	WM2664	http://www.ebi.ac.uk/efo/EFO_0006774	E-GEOD-46817	SRR849510	Anja Fullgrabe	25/01/19 11:00
+cell type	B CD19 lymphocyte	http://purl.obolibrary.org/obo/CL_0000236	E-GEOD-52742	SRR1038582	Anja Fullgrabe	25/01/19 11:00
+cell type	granulosa	http://purl.obolibrary.org/obo/CL_0000236	E-GEOD-42997	GSM1054639	Anja Fullgrabe	25/01/19 11:00
+cell type	inner ear hair cell	http://purl.obolibrary.org/obo/CL_0000202	E-MTAB-3578	DRR009633	Anja Fullgrabe	25/01/19 11:00
+cell type	myeloid cell	http://purl.obolibrary.org/obo/CL_0000763	E-MTAB-5690	15_DMSO_052214	Anja Fullgrabe	25/01/19 11:00
+cell line	H9 embryonic stem cell	http://www.ebi.ac.uk/efo/EFO_0003045	E-GEOD-109979	SRR6661431	Anja Fullgrabe	25/01/19 11:00
+cell line	immortal cell line cell	http://purl.obolibrary.org/obo/CL_0000002	E-MTAB-4850	ERR1797411	Anja Fullgrabe	25/01/19 11:00
+cell type	basophil mast progenitor cell	http://purl.obolibrary.org/obo/CL_0002028	E-GEOD-106973	SRR6297144	Anja Fullgrabe	25/01/19 11:00
+cell type	dopaminergic neuron	http://purl.obolibrary.org/obo/CL_0000700	E-MTAB-7303	ERR2848283	Anja Fullgrabe	25/01/19 11:00
+cell type	group 1 innate lymphoid cell	http://purl.obolibrary.org/obo/CL_0001067	E-GEOD-70580	SRR2088600	Anja Fullgrabe	25/01/19 11:00
+cell type	group 2 innate lymphoid cell	http://purl.obolibrary.org/obo/CL_0001069	E-GEOD-70580	SRR2088330	Anja Fullgrabe	25/01/19 11:00
+cell type	group 3 innate lymphoid cell	http://purl.obolibrary.org/obo/CL_0001071	E-GEOD-70580	SRR2088253	Anja Fullgrabe	25/01/19 11:00
+cell type	mature T cell	http://purl.obolibrary.org/obo/CL_0002419	E-GEOD-100911	SRR5810779	Anja Fullgrabe	25/01/19 11:00
+cell type	pre-conventional dendritic cell	http://purl.obolibrary.org/obo/CL_0002010	E-GEOD-89232	SRR4456039	Anja Fullgrabe	25/01/19 11:00
+developmental stage	gastrula	http://purl.obolibrary.org/obo/UBERON_0000109	E-MTAB-6077	ERR2146954	Anja Fullgrabe	25/01/19 11:00
+developmental stage	pupal stage	http://purl.obolibrary.org/obo/UBERON_0000070	E-GEOD-100058	SRR5685433	Anja Fullgrabe	25/01/19 11:00
+disease	obstructive sleep apnea syndrome	http://www.ebi.ac.uk/efo/EFO_0003918	E-GEOD-70580	SRR2088622	Anja Fullgrabe	25/01/19 11:00
+ethnic group	Asian Indian	http://purl.obolibrary.org/obo/HANCESTRO_0487	E-GEOD-81608	SRR3541387	Anja Fullgrabe	25/01/19 11:00
+infect	Salmonella enterica	http://purl.obolibrary.org/obo/NCBITaxon_28901	E-ENAD-14	SRR5102199	Anja Fullgrabe	25/01/19 11:00
+infect	Heligmosomoides polygyrus	http://purl.obolibrary.org/obo/NCBITaxon_6339	E-ENAD-14	SRR5102104	Anja Fullgrabe	25/01/19 11:00
+histology	HER2 positive breast carcinoma	http://www.ebi.ac.uk/efo/EFO_1000294	E-GEOD-75688	SRR5023527	Anja Fullgrabe	25/01/19 11:00
+inferred cell type	endocrine cell	http://purl.obolibrary.org/obo/CL_0000163	E-ENAD-13	SRR5102666	Anja Fullgrabe	25/01/19 11:00
+inferred cell type	endocrine cell	http://purl.obolibrary.org/obo/CL_0000163	E-ENAD-14	SRR5102206	Anja Fullgrabe	25/01/19 11:00
+inferred cell type	goblet cell	http://purl.obolibrary.org/obo/CL_0000160	E-ENAD-13	SRR5102655	Anja Fullgrabe	25/01/19 11:00
+inferred cell type	goblet cell	http://purl.obolibrary.org/obo/CL_0000160	E-ENAD-14	SRR5102080	Anja Fullgrabe	25/01/19 11:00
+inferred cell type	neoplastic cell	http://purl.obolibrary.org/obo/CL_0001063	E-GEOD-84465	SRR3934370	Anja Fullgrabe	25/01/19 11:00
+inferred cell type	pancreatic A cell	http://purl.obolibrary.org/obo/CL_0000171	E-GEOD-81547	SRR3562516	Anja Fullgrabe	25/01/19 11:00
+inferred cell type	pancreatic A cell	http://purl.obolibrary.org/obo/CL_0000171	E-GEOD-81608	SRR3542461	Anja Fullgrabe	25/01/19 11:00
+inferred cell type	pancreatic A cell	http://purl.obolibrary.org/obo/CL_0000171	E-MTAB-5061	ERR1633389	Anja Fullgrabe	25/01/19 11:00
+inferred cell type	pancreatic D cell	http://purl.obolibrary.org/obo/CL_0000173	E-GEOD-81547	SRR3563212	Anja Fullgrabe	25/01/19 11:00
+inferred cell type	pancreatic D cell	http://purl.obolibrary.org/obo/CL_0000173	E-GEOD-81608	SRR3541913	Anja Fullgrabe	25/01/19 11:00
+inferred cell type	pancreatic D cell	http://purl.obolibrary.org/obo/CL_0000173	E-MTAB-5061	ERR1630228	Anja Fullgrabe	25/01/19 11:00
+inferred cell type	pancreatic epsilon cell	http://purl.obolibrary.org/obo/CL_0005019	E-MTAB-5061	ERR1630896	Anja Fullgrabe	25/01/19 11:00
+inferred cell type	pancreatic PP cell	http://purl.obolibrary.org/obo/CL_0002275	E-GEOD-81608	SRR3541927	Anja Fullgrabe	25/01/19 11:00
+inferred cell type	pancreatic PP cell	http://purl.obolibrary.org/obo/CL_0002275	E-MTAB-5061	ERR1631405	Anja Fullgrabe	25/01/19 11:00
+inferred cell type	pancreatic stellate cell	http://purl.obolibrary.org/obo/CL_0002410	E-MTAB-5061	ERR1630282	Anja Fullgrabe	25/01/19 11:00
+inferred cell type	tuft cell	http://purl.obolibrary.org/obo/CL_0002204	E-ENAD-13	SRR5102905	Anja Fullgrabe	25/01/19 11:00
+inferred cell type	tuft cell	http://purl.obolibrary.org/obo/CL_0002204	E-ENAD-14	SRR5102175	Anja Fullgrabe	25/01/19 11:00
+inferred developmental stage	trophozoite	http://www.ebi.ac.uk/efo/EFO_0002592	E-ENAD-16	ERR1823175	Anja Fullgrabe	25/01/19 11:00
+organism part	head kidney	http://purl.obolibrary.org/obo/ZFA_0000669	E-GEOD-100911	SRR5810776	Anja Fullgrabe	25/01/19 11:00
+sampling site	metastasis to lymph node	http://www.ebi.ac.uk/efo/EFO_0004906	E-GEOD-75688	SRR2973391	Anja Fullgrabe	25/01/19 11:00
