@@ -27625,3 +27625,4 @@ cell line	WM2664	http://www.ebi.ac.uk/efo/EFO_0006774	E-GEOD-46817	SRR849510	WM-
 cell type	B CD19 lymphocyte	http://purl.obolibrary.org/obo/CL_0000236	E-GEOD-52742	SRR1038582	B cell	mismatch	REQUIRES_CURATION
 cell type	granulosa	http://purl.obolibrary.org/obo/CL_0000236	E-GEOD-42997	GSM1054639	granulosa cell|ovarian follicular granulosa	mismatch	REQUIRES_CURATION
 cell type	inner ear hair cell	http://purl.obolibrary.org/obo/CL_0000202	E-MTAB-3578	DRR009633	cochlear hair cell	mismatch	REQUIRES_CURATION
+cell type	myeloid cell	http://purl.obolibrary.org/obo/CL_0000763	E-MTAB-5690	15_DMSO_052214	myeloid lineage restricted progenitor cell|myeloid progenitor cell	mismatch	REQUIRES_CURATION
