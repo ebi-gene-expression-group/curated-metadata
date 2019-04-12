@@ -27662,3 +27662,43 @@ inferred cell type	tuft cell	http://purl.obolibrary.org/obo/CL_0002204	E-ENAD-14
 inferred developmental stage	trophozoite	http://www.ebi.ac.uk/efo/EFO_0002592	E-ENAD-16	ERR1823175	Anja Fullgrabe	25/01/19 11:00
 organism part	head kidney	http://purl.obolibrary.org/obo/ZFA_0000669	E-GEOD-100911	SRR5810776	Anja Fullgrabe	25/01/19 11:00
 sampling site	metastasis to lymph node	http://www.ebi.ac.uk/efo/EFO_0004906	E-GEOD-75688	SRR2973391	Anja Fullgrabe	25/01/19 11:00
+developmental stage	16-cell stage embryo	http://www.ebi.ac.uk/efo/EFO_0001284	E-GEOD-77944	SRR3170487	Nancy George	11/04/19 14:00
+developmental stage	1-cell stage embryo	http://www.ebi.ac.uk/efo/EFO_0001322	E-GEOD-77944	SRR3170301	Nancy George	11/04/19 14:00
+developmental stage	2-cell stage embryo	http://www.ebi.ac.uk/efo/EFO_0001285	E-GEOD-77944	SRR3170310	Nancy George	11/04/19 14:00
+developmental stage	4-cell stage embryo	http://www.ebi.ac.uk/efo/EFO_0001287	E-GEOD-77944	SRR3170324	Nancy George	11/04/19 14:00
+developmental stage	8-cell stage embryo	http://www.ebi.ac.uk/efo/EFO_0001289	E-GEOD-77944	SRR3170333	Nancy George	11/04/19 14:00
+cause of death	aneurysm	http://www.ebi.ac.uk/efo/EFO_0009659	E-GEOD-81608	SRR3541424	Nancy George	11/04/19 14:00
+inferred cell type	antigen presenting-MHC class II	http://purl.obolibrary.org/obo/CL_0002470	E-MTAB-5061	ERR1630066	Nancy George	11/04/19 14:00
+cause of death	head trauma	http://www.ebi.ac.uk/efo/EFO_0009505	E-GEOD-81547	SRR3563501	Silvie Fexova	11/04/19 14:00
+cell type	vascular endothelial cell	http://purl.obolibrary.org/obo/CL_0000071	E-GEOD-62741	SRR1631762	SIlvie Fexova	12/04/19 16:00
+disease	Crohn disease	http://www.ebi.ac.uk/efo/EFO_0000384	E-GEOD-112057	SRR6868637	SIlvie Fexova	12/04/19 16:00
+disease	ulcerative colitis (disease)	http://www.ebi.ac.uk/efo/EFO_0000729	E-GEOD-112057	SRR6868607	SIlvie Fexova	12/04/19 16:00
+disease	enthesitis-related juvenile idiopathic arthritis	http://www.ebi.ac.uk/efo/EFO_0009732	E-GEOD-13501	GSM340250	SIlvie Fexova	12/04/19 16:00
+disease	oligoarticular juvenile idiopathic arthritis	http://www.ebi.ac.uk/efo/EFO_1002019	E-GEOD-13501	GSM340311	SIlvie Fexova	12/04/19 16:00
+disease	systemic-onset juvenile idiopathic arthritis	http://www.ebi.ac.uk/efo/EFO_1001999	E-GEOD-13501	GSM340359	SIlvie Fexova	12/04/19 16:00
+disease	rheumatoid factor-positive polyarticular juvenile idiopathic arthritis	http://www.ebi.ac.uk/efo/EFO_0009731	E-GEOD-13849	GSM348188	SIlvie Fexova	12/04/19 16:00
+disease	enthesitis-related juvenile idiopathic arthritis	http://www.ebi.ac.uk/efo/EFO_0009732	E-GEOD-58667	GSM1416678	SIlvie Fexova	12/04/19 16:00
+disease	Ataxia-telangiectasia	http://www.orpha.net/ORDO/Orphanet_100	E-GEOD-61019	GSM1495588	SIlvie Fexova	12/04/19 16:00
+disease	systemic-onset juvenile idiopathic arthritis	http://www.ebi.ac.uk/efo/EFO_1001999	E-GEOD-80060	GSM2111993	SIlvie Fexova	12/04/19 16:00
+cell type	neural progenitor cell	http://purl.obolibrary.org/obo/CL_0000047	E-MTAB-3198	ERR712408	Nancy George	12/04/19 16:00
+cell type	neural progenitor cell	http://purl.obolibrary.org/obo/CL_0000047	E-MTAB-5172	ERR1695804	Nancy George	12/04/19 16:00
+developmental stage	unfertilised egg	http://purl.obolibrary.org/obo/CL_0000023	E-MEXP-2580	Unfertilised.t3-4	Nancy George	12/04/19 16:00
+developmental stage	young adult	http://www.ebi.ac.uk/efo/EFO_0001272	E-MTAB-1404	JvAre-84_12-MOE430_2-a1.CEL	Nancy George	12/04/19 16:00
+developmental stage	post-juvenile adult stage	http://www.ebi.ac.uk/efo/EFO_0001272	E-MTAB-2266	ERR424879	Nancy George	12/04/19 16:00
+developmental stage	mature adult	http://www.ebi.ac.uk/efo/EFO_0001272	E-MTAB-2782	assay 51	Nancy George	12/04/19 16:00
+developmental stage	seedling developmental stage	http://purl.obolibrary.org/obo/PO_0007131	E-MTAB-3007	ERR2193168	Nancy George	12/04/19 16:00
+developmental stage	seedling developmental stage	http://purl.obolibrary.org/obo/PO_0007131	E-MTAB-4262	ERR1736196	Nancy George	12/04/19 16:00
+developmental stage	fetal stage	http://purl.obolibrary.org/obo/UBERON_0000323	E-MTAB-5015	ERR1578722	Nancy George	12/04/19 16:00
+disease	intestinal cancer	http://www.ebi.ac.uk/efo/EFO_0007330	E-MTAB-7546	ERR3053602	Nancy George	12/04/19 16:00
+organism part	brain frontal lobe	http://purl.obolibrary.org/obo/UBERON_0001870	E-MTAB-3408	6_03_07_HuGe1_mf_ritz_140711_	Nancy George	12/04/19 16:00
+organism part	biceps	http://purl.obolibrary.org/obo/UBERON_0001374	E-MTAB-3838	ERR489190	Nancy George	12/04/19 16:00
+organism part	muscle biceps	http://purl.obolibrary.org/obo/UBERON_0001374	E-MTAB-3838	ERR489125	Nancy George	12/04/19 16:00
+organism part	left renal cortex	http://purl.obolibrary.org/obo/UBERON_0001225	E-MTAB-3871	SRR643775	Nancy George	12/04/19 16:00
+organism part	right renal cortex	http://purl.obolibrary.org/obo/UBERON_0001225	E-MTAB-3871	SRR643784	Nancy George	12/04/19 16:00
+organism part	hind leg bone	http://purl.obolibrary.org/obo/UBERON_0003464	E-MTAB-5023	Control_1	Nancy George	12/04/19 16:00
+organism part	mature tuber	http://purl.obolibrary.org/obo/PO_0025522	E-MTAB-552	ERR029916	Nancy George	12/04/19 16:00
+organism part	young tuber	http://purl.obolibrary.org/obo/PO_0025522	E-MTAB-552	ERR029915	Nancy George	12/04/19 16:00
+organism part	caryopsis fruit	http://www.ebi.ac.uk/efo/EFO_0006814	E-MTAB-6740	ERR2540466	Nancy George	12/04/19 16:00
+organism part	plant reproductive system structure	http://www.ebi.ac.uk/efo/EFO_0000998	E-MTAB-7607	ERR3079465	Nancy George	12/04/19 16:00
+organism part	portion of plant tissue	http://purl.obolibrary.org/obo/PO_0009007	E-MTAB-7607	ERR3079468	Nancy George	12/04/19 16:00
+phenotype	infection	http://www.ebi.ac.uk/efo/EFO_0000544	E-MTAB-5516	ERR1856423	Nancy George	12/04/19 16:00
