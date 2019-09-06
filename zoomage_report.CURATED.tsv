@@ -27662,3 +27662,4 @@ inferred cell type	tuft cell	http://purl.obolibrary.org/obo/CL_0002204	E-ENAD-14
 inferred developmental stage	trophozoite	http://www.ebi.ac.uk/efo/EFO_0002592	E-ENAD-16	ERR1823175	Anja Fullgrabe	25/01/19 11:00
 organism part	head kidney	http://purl.obolibrary.org/obo/ZFA_0000669	E-GEOD-100911	SRR5810776	Anja Fullgrabe	25/01/19 11:00
 sampling site	metastasis to lymph node	http://www.ebi.ac.uk/efo/EFO_0004906	E-GEOD-75688	SRR2973391	Anja Fullgrabe	25/01/19 11:00
+cell type	spheroplast	http://purl.obolibrary.org/obo/CL_0000524	E-GEOD-102475	SRR5924299	Anja Fullgrabe	06/09/19 11:30
