@@ -27662,6 +27662,7 @@ inferred cell type	tuft cell	http://purl.obolibrary.org/obo/CL_0002204	E-ENAD-14
 inferred developmental stage	trophozoite	http://www.ebi.ac.uk/efo/EFO_0002592	E-ENAD-16	ERR1823175	Anja Fullgrabe	25/01/19 11:00
 organism part	head kidney	http://purl.obolibrary.org/obo/ZFA_0000669	E-GEOD-100911	SRR5810776	Anja Fullgrabe	25/01/19 11:00
 sampling site	metastasis to lymph node	http://www.ebi.ac.uk/efo/EFO_0004906	E-GEOD-75688	SRR2973391	Anja Fullgrabe	25/01/19 11:00
+<<<<<<< HEAD						
 developmental stage	16-cell stage embryo	http://www.ebi.ac.uk/efo/EFO_0001284	E-GEOD-77944	SRR3170487	Nancy George	11/04/19 14:00
 developmental stage	1-cell stage embryo	http://www.ebi.ac.uk/efo/EFO_0001322	E-GEOD-77944	SRR3170301	Nancy George	11/04/19 14:00
 developmental stage	2-cell stage embryo	http://www.ebi.ac.uk/efo/EFO_0001285	E-GEOD-77944	SRR3170310	Nancy George	11/04/19 14:00
@@ -27764,3 +27765,4 @@ progenitor cell type	skin fibroblast	http://purl.obolibrary.org/obo/CL_0002620	E
 inferred cell type	somitic mesoderm	http://purl.obolibrary.org/obo/UBERON_0003077	E-MTAB-6912	ERR2929171	Nancy George	06/09/19 11:00
 disease	tonsilitis	http://purl.obolibrary.org/obo/MONDO_0001039	E-MTAB-7381	ERR2857996	Nancy George	06/09/19 11:00
 cell type	totipotent stem cell	http://purl.obolibrary.org/obo/CL_0000052	E-GEOD-36552	SRR490962	Nancy George	06/09/19 11:00
+cell type	spheroplast	http://purl.obolibrary.org/obo/CL_0000524	E-GEOD-102475	SRR5924299	Anja Fullgrabe	06/09/19 11:30
