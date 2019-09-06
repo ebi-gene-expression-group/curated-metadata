@@ -27702,3 +27702,66 @@ organism part	caryopsis fruit	http://www.ebi.ac.uk/efo/EFO_0006814	E-MTAB-6740	E
 organism part	plant reproductive system structure	http://www.ebi.ac.uk/efo/EFO_0000998	E-MTAB-7607	ERR3079465	Nancy George	12/04/19 16:00
 organism part	portion of plant tissue	http://purl.obolibrary.org/obo/PO_0009007	E-MTAB-7607	ERR3079468	Nancy George	12/04/19 16:00
 phenotype	infection	http://www.ebi.ac.uk/efo/EFO_0000544	E-MTAB-5516	ERR1856423	Nancy George	12/04/19 16:00
+organism part	allantois	 http://purl.obolibrary.org/obo/UBERON_0004340	E-MTAB-6970	ERR2676795	Nancy George	06/09/19 11:00
+infect	Anisakis simplex	http://www.ebi.ac.uk/efo/EFO_0007146	E-MTAB-7159	ERR2788339	Nancy George	06/09/19 11:00
+cell type	aortic endothelial cell	http://purl.obolibrary.org/obo/CL_0002544	E-MTAB-7149	ERR2737399	Nancy George	06/09/19 11:00
+organism part	breast epithelium	http://purl.obolibrary.org/obo/UBERON_0008367	E-CURD-7	SRR7010548	Nancy George	06/09/19 11:00
+cell type	CD4-positive, CD25-positive, alpha-beta regulatory T cell	http://purl.obolibrary.org/obo/CL_0000792	E-MTAB-7311	SAMEA5043946	Nancy George	06/09/19 11:00
+organism status	dead	http://purl.obolibrary.org/obo/PATO_0001422	E-CURD-6	SRR5577470	Nancy George	06/09/19 11:00
+inferred cell type	foregut	http://purl.obolibrary.org/obo/UBERON_0001041	E-MTAB-6912	ERR2929309	Nancy George	06/09/19 11:00
+organism part	gill	http://purl.obolibrary.org/obo/UBERON_0002535	E-MTAB-7117	ERR2723528	Nancy George	06/09/19 11:00
+cell line	H7-hESC	http://www.ebi.ac.uk/efo/EFO_0005904	E-MTAB-6108	ERR2538859	Nancy George	06/09/19 11:00
+infect	H7N9 subtype	http://purl.obolibrary.org/obo/NCBITaxon_333278	E-MTAB-6379	SAMEA104554557	Nancy George	06/09/19 11:00
+organism part	habenula	http://purl.obolibrary.org/obo/UBERON_0001904	E-GEOD-109159	SRR6468784	Nancy George	06/09/19 11:00
+organism part	hemolymph	http://purl.obolibrary.org/obo/UBERON_0001011	E-ENAD-19	ERR2192557	Nancy George	06/09/19 11:00
+ancestry category	Hispanic or Latin American	http://purl.obolibrary.org/obo/HANCESTRO_0014	E-ENAD-27	SRR3617842	Nancy George	06/09/19 11:00
+cell line	IBA	http://purl.obolibrary.org/obo/GAZ_00238997	E-MTAB-6818	SAMEA4713943	Nancy George	06/09/19 11:00
+infect	Influenza B virus	http://purl.obolibrary.org/obo/NCIT_C53468	E-MTAB-7606	SAMEA5215586	Nancy George	06/09/19 11:00
+organism part	juxtamedullary cortex	http://purl.obolibrary.org/obo/UBERON_0005271	E-GEOD-124472	SRR8377706	Nancy George	06/09/19 11:00
+organism part	lamina propria of large intestine	http://purl.obolibrary.org/obo/UBERON_0011189	E-MTAB-6976	ERR2696326	Nancy George	06/09/19 11:00
+developmental stage	morula	http://purl.obolibrary.org/obo/UBERON_0000085	E-GEOD-36552	SRR491003	Nancy George	06/09/19 11:00
+organism part	morula	http://purl.obolibrary.org/obo/UBERON_0000085	E-GEOD-36552	SRR490995	Nancy George	06/09/19 11:00
+cell line	not applicable	http://purl.obolibrary.org/obo/NCIT_C48660	E-MTAB-6818	SAMEA4713952	Nancy George	06/09/19 11:00
+organism part	outer cortex of kidney	http://purl.obolibrary.org/obo/UBERON_0002189	E-GEOD-124472	SRR8377705	Nancy George	06/09/19 11:00
+inferred cell type	pharyngeal mesoderm	http://purl.obolibrary.org/obo/UBERON_2001467	E-MTAB-6912	ERR2929341	Nancy George	06/09/19 11:00
+inferred cell type	placode	http://www.ebi.ac.uk/efo/EFO_0001650	E-MTAB-6925	ERR2640076	Nancy George	06/09/19 11:00
+inferred cell type	presomitic mesoderm	http://purl.obolibrary.org/obo/UBERON_0003059	E-MTAB-6925	ERR2640083	Nancy George	06/09/19 11:00
+organism part	primary visual area, layer 2/3	http://purl.obolibrary.org/obo/UBERON_0035907	E-GEOD-71585	SRR2138921	Nancy George	06/09/19 11:00
+organism part	primary visual area, layer 4	http://purl.obolibrary.org/obo/UBERON_0035904	E-GEOD-71585	SRR2139294	Nancy George	06/09/19 11:00
+organism part	primary visual area, layer 5	http://purl.obolibrary.org/obo/UBERON_0035906	E-GEOD-71585	SRR2139715	Nancy George	06/09/19 11:00
+organism part	primary visual area, layer 6a	http://purl.obolibrary.org/obo/UBERON_0035892	E-GEOD-71585	SRR2139359	Nancy George	06/09/19 11:00
+disease	refractory anemia with excess blasts	http://www.ebi.ac.uk/efo/EFO_0003811	E-CURD-6	SRR5577522	Nancy George	06/09/19 11:00
+cell type	retinal cell	http://purl.obolibrary.org/obo/CL_0009004	E-GEOD-98556	SRR5508674	Nancy George	06/09/19 11:00
+organism part	skin of body	http://purl.obolibrary.org/obo/UBERON_0002097	E-MTAB-7311	SAMEA5043952	Nancy George	06/09/19 11:00
+organism part	splanchnic layer of lateral plate mesoderm	http://purl.obolibrary.org/obo/UBERON_0004872	E-MTAB-6987	ERR3196831	Nancy George	06/09/19 11:00
+sampling site	upper lobe of left lung	http://purl.obolibrary.org/obo/UBERON_0008952	E-GEOD-130148	SRR8942436	Nancy George	06/09/19 11:00
+infect	Vibrio Anguillarum	http://purl.obolibrary.org/obo/NCBITaxon_55601	E-MTAB-7159	ERR2788340	Nancy George	06/09/19 11:00
+inferred cell type	cardiocyte	http://purl.obolibrary.org/obo/CL_0000746	E-MTAB-6912	ERR2929339	Nancy George	06/09/19 11:00
+cause of death	cardiac arrest	http://www.ebi.ac.uk/efo/EFO_0009492	E-HCAD-1	HCATisStabAug177376561_S1_L001	Nancy George	06/09/19 11:00
+inferred cell type	conventional dendritic cell 1	http://purl.obolibrary.org/obo/CL_0000451	E-EHCA-2	22467_8_304	Nancy George	06/09/19 11:00
+inferred cell type	conventional dendritic cell 2	http://purl.obolibrary.org/obo/CL_0000451	E-EHCA-2	22421_8_71	Nancy George	06/09/19 11:00
+disease	fibrosis	http://www.ebi.ac.uk/efo/EFO_0006890	E-MTAB-7142	ERR2744247	Nancy George	06/09/19 11:00
+inferred cell type	immune cell	http://purl.obolibrary.org/obo/CL_0000738	E-GEOD-84465	SRR3935824	Nancy George	06/09/19 11:00
+cell type	luminal epithelial cell of mammary gland	http://purl.obolibrary.org/obo/CL_0002326	E-ENAD-21	SRR7008909	Nancy George	06/09/19 11:00
+sampling site	main bronchus	http://purl.obolibrary.org/obo/UBERON_0002182	E-GEOD-130148	SRR8942435	Nancy George	06/09/19 11:00
+inferred cell type	mid hindbrain	http://purl.obolibrary.org/obo/UBERON_0002028	E-MTAB-6912	ERR2929212	Nancy George	06/09/19 11:00
+inferred cell type	mid hindbrain	http://purl.obolibrary.org/obo/UBERON_0002028	E-MTAB-6925	ERR2640108	Nancy George	06/09/19 11:00
+inferred cell type	mixed mesoderm	http://purl.obolibrary.org/obo/UBERON_0000926	E-MTAB-6912	ERR2929156	Nancy George	06/09/19 11:00
+inferred cell type	mixed mesoderm	http://purl.obolibrary.org/obo/UBERON_0000926	E-MTAB-6925	ERR2640129	Nancy George	06/09/19 11:00
+cell type	mononuclear cell of bone marrow	http://purl.obolibrary.org/obo/CL_0010004	E-GEOD-76312	SRR5290480	Nancy George	06/09/19 11:00
+cell type	morula cell	http://purl.obolibrary.org/obo/CL_0000360	E-GEOD-36552	SRR490996	Nancy George	06/09/19 11:00
+cell type	multi-lymphoid progenitor	http://purl.obolibrary.org/obo/CL_0000936	E-GEOD-100618	SRR5766153	Nancy George	06/09/19 11:00
+cell type	myoepithelial cell of mammary gland	http://purl.obolibrary.org/obo/CL_0002324	E-ENAD-21	SRR7010620	Nancy George	06/09/19 11:00
+organism part	oesophagus	http://purl.obolibrary.org/obo/UBERON_0001043	E-HCAD-1	HCATisStabAug177376562_S1_L001	Nancy George	06/09/19 11:00
+cell type	plant protoplast	http://purl.obolibrary.org/obo/CL_0000371	E-ENAD-30	SRR7181548	Nancy George	06/09/19 11:00
+organism status	postmortem	http://www.ebi.ac.uk/efo/EFO_0009627	E-EHCA-2	21935_6_9	Nancy George	06/09/19 11:00
+cell type	reticular cell	http://purl.obolibrary.org/obo/CL_0000432	E-MTAB-7094	SAMEA4812228	Nancy George	06/09/19 11:00
+cell type	reticular cell	http://purl.obolibrary.org/obo/CL_0000432	E-MTAB-7703	ERR3170016	Nancy George	06/09/19 11:00
+cell type	retinal cone cell	http://purl.obolibrary.org/obo/CL_0000573	E-MTAB-6058	group_68	Nancy George	06/09/19 11:00
+cell type	retinal ganglion cell	http://purl.obolibrary.org/obo/CL_0000740	E-MTAB-6108	ERR2538859	Nancy George	06/09/19 11:00
+organism part	retinal neural layer	http://purl.obolibrary.org/obo/UBERON_0003902	E-MTAB-7316	ERR2854360	Nancy George	06/09/19 11:00
+progenitor cell type	skin fibroblast	http://purl.obolibrary.org/obo/CL_0002620	E-MTAB-6524	ERR3307237	Nancy George	06/09/19 11:00
+inferred cell type	somitic mesoderm	http://purl.obolibrary.org/obo/UBERON_0003077	E-MTAB-6912	ERR2929171	Nancy George	06/09/19 11:00
+disease	tonsilitis	http://purl.obolibrary.org/obo/MONDO_0001039	E-MTAB-7381	ERR2857996	Nancy George	06/09/19 11:00
+cell type	totipotent stem cell	http://purl.obolibrary.org/obo/CL_0000052	E-GEOD-36552	SRR490962	Nancy George	06/09/19 11:00
+cell type	spheroplast	http://purl.obolibrary.org/obo/CL_0000524	E-GEOD-102475	SRR5924299	Anja Fullgrabe	06/09/19 11:30
