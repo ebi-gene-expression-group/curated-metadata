@@ -27974,3 +27974,33 @@ strain	ZDF	http://purl.obolibrary.org/obo/RS_0001101	E-MTAB-5563	006-ZDF-lean	An
 strain	Zucker Diabetic Fatty Rat	http://purl.obolibrary.org/obo/RS_0001101	E-GEOD-30147	GSM746616	Anja Fullgrabe	10/10/19 16:00
 treatment	mTOR inhibitor	http://purl.obolibrary.org/obo/CHEBI_68481	E-GEOD-67529		Anja Fullgrabe	10/10/19 16:00
 tumor grading	Ta tumor stage	http://www.ebi.ac.uk/efo/EFO_0005309	E-MTAB-1940	FR_347_U133_2.CEL	Anja Fullgrabe	10/10/19 16:00
+strain	AKR/J	http://www.ebi.ac.uk/efo/EFO_0007726	E-ENAD-29	GSM824525	Anja Fullgrabe	30/01/20 17:00
+strain	AKR/J	http://www.ebi.ac.uk/efo/EFO_0007726	E-MTAB-8344	ERR3568712		
+strain	AKR/J	http://www.ebi.ac.uk/efo/EFO_0007726	E-MTAB-8550	ERR3697284		
+infect	Astrovirus VA1	http://purl.obolibrary.org/obo/NCBITaxon_645687	E-MTAB-8527	ERR3671290		
+infect	Beet necrotic yellow vein virus	http://purl.obolibrary.org/obo/NCBITaxon_31721	E-MTAB-8187	ERR3452450		
+infect	Beet soil-borne mosaic virus	http://purl.obolibrary.org/obo/NCBITaxon_76343	E-MTAB-8187	ERR3452457		
+strain	BN/SsNHsd	http://purl.obolibrary.org/obo/RS_0000155	E-MTAB-2800	SRR594430		
+genetic modification	chemically induced mutation	http://www.ebi.ac.uk/efo/EFO_0000370	E-MTAB-6755	ERR2560194		
+strain	Crl:CD(SD)	http://purl.obolibrary.org/obo/RS_0000064	E-GEOD-54584	GSM1319573		
+cell line	HAP-1	http://www.ebi.ac.uk/efo/EFO_0007598	E-MTAB-7061	ERR3348206		
+organism part	intestinal epithelium	http://purl.obolibrary.org/obo/UBERON_0001277	E-MTAB-8527	ERR3671298		
+cell type	lymph node subcapsular sinus macrophage	http://purl.obolibrary.org/obo/CL_0000887	E-MTAB-8482	ERR3653616		
+disease	myxosarcoma	http://www.ebi.ac.uk/efo/EFO_1001056	E-MTAB-8701	ERR3829745		
+strain	NOD mouse	http://www.ebi.ac.uk/efo/EFO_0002547	E-MTAB-8443	Ctrl9		
+cell type	non-classical monocyte	http://purl.obolibrary.org/obo/CL_0000875	E-MTAB-8185	ERR3450429		
+compound	poly(I:C)	http://purl.obolibrary.org/obo/CHEBI_84491	E-MTAB-4928	35MR_3229		
+compound	poly(I:C)	http://purl.obolibrary.org/obo/CHEBI_84491	E-MTAB-7406	ASM2		
+compound	poly(I:C)	http://purl.obolibrary.org/obo/CHEBI_84491	E-MTAB-7803	ERR3288627		
+cell type	precursor B cell	http://purl.obolibrary.org/obo/CL_0000817	E-MTAB-8005	ERR3346306		
+infect	Rhipicephalus microplus	http://purl.obolibrary.org/obo/NCBITaxon_6941	E-MTAB-8022	ERR3365935		
+disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268	E-MTAB-7915	ERR3300779		
+compound	tofacitinib	http://purl.obolibrary.org/obo/CHEBI_71200	E-MTAB-8536	ERR3672143		
+geographical location	United Kingdom	http://dbpedia.org/resource/United_Kingdom	E-MTAB-8163	ERR3458987		
+organism part	visceral abdominal adipose tissue	http://purl.obolibrary.org/obo/UBERON_0014454	E-MTAB-8435	ERR3596210		
+infect	Lymphocytic choriomeningitis mammarenavirus	http://purl.obolibrary.org/obo/NCBITaxon_11623	E-MTAB-7562	ERR3013395		
+cell line	CAL851	http://www.ebi.ac.uk/efo/EFO_0005359	E-MTAB-8408	ERR3580106		
+cell line	PEO14	http://www.ebi.ac.uk/efo/EFO_0005446	E-MTAB-8198	ERR3456442		
+cell type	CD16 negative mononuclear cell	http://purl.obolibrary.org/obo/CL_0002057	E-GEOD-16836	Peripheral blood monocytes, CD16 negative, rep1	CD14-positive, CD16-negative classical monocyte	
+cell type	CD16 positive mononuclear cell	http://purl.obolibrary.org/obo/CL_0002397	E-GEOD-16836	Peripheral blood monocytes, CD16 positive, rep4	CD14-positive, CD16-positive monocyte	
+cell type	pulmonary endothelial cell	http://purl.obolibrary.org/obo/CL_1001567	E-GEOD-40613	GSM997916	lung endothelial cell	
