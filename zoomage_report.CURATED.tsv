@@ -28004,3 +28004,34 @@ cell line	PEO14	http://www.ebi.ac.uk/efo/EFO_0005446	E-MTAB-8198	ERR3456442
 cell type	CD16 negative mononuclear cell	http://purl.obolibrary.org/obo/CL_0002057	E-GEOD-16836	Peripheral blood monocytes, CD16 negative, rep1	CD14-positive, CD16-negative classical monocyte	
 cell type	CD16 positive mononuclear cell	http://purl.obolibrary.org/obo/CL_0002397	E-GEOD-16836	Peripheral blood monocytes, CD16 positive, rep4	CD14-positive, CD16-positive monocyte	
 cell type	pulmonary endothelial cell	http://purl.obolibrary.org/obo/CL_1001567	E-GEOD-40613	GSM997916	lung endothelial cell	
+cell type	Lin-negative,  Sca1-positive, c-Kit-positive	http://purl.obolibrary.org/obo/CL_0001008	E-GEOD-61147	GSM1498403	Kit and Sca1-positive hematopoietic stem cell	
+cell type	LSK hematopoietic stem cells	http://purl.obolibrary.org/obo/CL_0001008	E-GEOD-65913	GSM1610473	Kit and Sca1-positive hematopoietic stem cell	
+compound	alpha-GalCer	http://purl.obolibrary.org/obo/CHEBI_132148	E-GEOD-27149	GSM671142	alpha-galactosylceramide	
+compound	gamma secretase inhibitor RO4929097	http://purl.obolibrary.org/obo/CHEBI_86474	E-GEOD-36176	GSM882377	RO4929097	
+compound	CDK4/6 inhibitor PD 0332991	http://purl.obolibrary.org/obo/CHEBI_85993	E-GEOD-40513	GSM995432	palbociclib	
+compound	Lacciac Acid A	http://purl.obolibrary.org/obo/CHEBI_90186	E-GEOD-45804	GSM1115766	Salvianolic acid A	
+compound	dsRNA poly(I:C)	http://purl.obolibrary.org/obo/CHEBI_84491	E-MTAB-2451	3189_35d_LOW	poly(I:C)	
+compound	α-GalCer	http://purl.obolibrary.org/obo/CHEBI_132148	E-MTAB-6381	ERR2269683	alpha-galactosylceramide	
+compound	PD0325901	http://purl.obolibrary.org/obo/CHEBI_88249	E-MTAB-6681	ERR2534092	PD 0325901	
+compound	clopidogrel	http://purl.obolibrary.org/obo/CHEBI_37941	E-MTAB-8049	ERR3367699		
+compound	ticagrelor	http://purl.obolibrary.org/obo/CHEBI_68558	E-MTAB-8049	ERR3367704		
+compound	clopidogrel	http://purl.obolibrary.org/obo/CHEBI_37941	E-MTAB-8050	ERR3367683		
+compound	ticagrelor	http://purl.obolibrary.org/obo/CHEBI_68558	E-MTAB-8050	ERR3367697		
+developmental stage	plant embryo cotyledonary stage	http://purl.obolibrary.org/obo/PO_0001078	E-GEOD-24887	GSM612046		
+developmental stage	first instar larva	http://purl.obolibrary.org/obo/FBbt_00005337	E-GEOD-5984	Wt_larvae_rep1		
+developmental stage	first instar larva	http://purl.obolibrary.org/obo/FBbt_00005337	E-GEOD-6839	Pof Mutant 1stInstar larvae rep1		
+developmental stage	lateral root primordium formation stage	http://purl.obolibrary.org/obo/PO_0007511	E-MTAB-2565	CPIB_LRP_hyb_10		
+developmental stage	globular stage	http://purl.obolibrary.org/obo/PO_0001185	E-MTAB-4045	SRR1272357	plant embryo globular stage	
+developmental stage	first instar larva stage	http://purl.obolibrary.org/obo/FBdv_00005337	E-MTAB-5344	ERR1758835		
+developmental stage	embryonic stage	http://www.ebi.ac.uk/efo/EFO_0007725	E-MTAB-7529	PL2Dros2T63P	embryo stage	
+developmental stage	embryo stage	http://www.ebi.ac.uk/efo/EFO_0007725	E-MTAB-8067	ERR3380206		
+disease	Aicardi-Goutières syndrome	http://www.orpha.net/ORDO/Orphanet_51	E-MTAB-7087	ERR2716234	Aicardi-GoutiÃ¨res syndrome	
+disease	immunoblastic large cell lymphoma	http://purl.obolibrary.org/obo/MONDO_0022037	E-MTAB-2706	ERR413951	large-cell immunoblastic lymphoma	
+disease	Klinefelter’s Syndrome	http://www.ebi.ac.uk/efo/EFO_1001006	E-GEOD-37258	GSM914974		
+disease	large cell immunoblastic lymphoma	http://purl.obolibrary.org/obo/MONDO_0022037	E-MTAB-3983	ERR989671	large-cell immunoblastic lymphoma 	
+disease	malignant catarrhal fever	http://purl.obolibrary.org/obo/MONDO_0025096	E-MEXP-3497	LN_199_MCF	malignant catarrh	
+disease	rheumatoid factor-negative juvenile idiopathic arthritis	http://purl.obolibrary.org/obo/MONDO_0019432	E-GEOD-11083	GSM280006		
+disease	rheumatoid factor-negative juvenile idiopathic arthritis	http://purl.obolibrary.org/obo/MONDO_0019432	E-GEOD-13501	GSM340326		
+disease	rheumatoid factor-negative juvenile idiopathic arthritis	http://purl.obolibrary.org/obo/MONDO_0019432	E-GEOD-13849	GSM340337		
+disease	rheumatoid factor-negative juvenile idiopathic arthritis	http://purl.obolibrary.org/obo/MONDO_0019432	E-GEOD-15645	GSM391605		
+disease	rheumatoid factor-negative juvenile idiopathic arthritis	http://purl.obolibrary.org/obo/MONDO_0019432	E-GEOD-41831	GSM1025153		
