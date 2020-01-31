@@ -28034,3 +28034,15 @@ disease	tonsilitis	http://purl.obolibrary.org/obo/HP_0011110	E-MTAB-7381	ERR2857
 disease	neurofibromatosis	http://www.ebi.ac.uk/efo/EFO_0008514	E-GEOD-1482	DMN-NF1Hippo15d-2cAv2-s2	Anja Fullgrabe	31/10/2020
 disease	corticobasal degeneration	http://purl.obolibrary.org/obo/MONDO_0018696	E-GEOD-6613	neurological disease control sample x087	Anja Fullgrabe	31/10/2020
 disease	pulmonary sarcoidosis	http://purl.obolibrary.org/obo/MONDO_0001708	E-MTAB-6158	ERR2180966	Anja Fullgrabe	31/10/2020
+growth condition	hypoxic	http://www.ebi.ac.uk/efo/EFO_0009444	E-MTAB-2580	ERR507056	hypoxia	
+infect	Streptococcus pneumoniae strain 23F	http://purl.obolibrary.org/obo/NCBITaxon_216600	E-MTAB-7841	ERR3262080	Streptococcus pneumoniae 23F	
+infect	Streptococcus pneumoniae strain TIGR4	http://purl.obolibrary.org/obo/NCBITaxon_170187	E-MTAB-7841	ERR3262119	Streptococcus pneumoniae TIGR4	
+infect	Trypanosoma brucei brucei	http://purl.obolibrary.org/obo/NCBITaxon_5702	E-MTAB-7469	ERR2982952	Trypanosoma brucei brucei	
+injury	burn	http://www.ebi.ac.uk/efo/EFO_0009516	E-GEOD-19743	GSM493719		
+organism	Beta vulgaris	http://purl.obolibrary.org/obo/NCBITaxon_161934	E-MTAB-8187	ERR3452465		
+organism part	gonadal fat pad	http://purl.obolibrary.org/obo/UBERON_0003428	E-MTAB-8402	ERR3580441		
+organism part	epidimymal fat	http://purl.obolibrary.org/obo/UBERON_0010412	E-GEOD-31115	GSM435041	epididymal fat pad	
+organism part	epidydimal fat	http://purl.obolibrary.org/obo/UBERON_0010412	E-GEOD-60596	GSM1483030	epididymal fat pad	
+organism part	gonadal fat pad	http://purl.obolibrary.org/obo/UBERON_0003428	E-MTAB-8402	ERR3580441	embryonic gonadal ridge	
+organism part	inguinal lymph node	http://purl.obolibrary.org/obo/UBERON_0001542	E-MTAB-8482	ERR3653605		
+organism part	ovarian surface epithelium	http://purl.obolibrary.org/obo/UBERON_0001304	E-GEOD-43897	GSM1074130	germinal epithelium of ovary	
