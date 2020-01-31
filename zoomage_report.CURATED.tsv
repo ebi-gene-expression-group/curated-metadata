@@ -28046,3 +28046,25 @@ organism part	epidydimal fat	http://purl.obolibrary.org/obo/UBERON_0010412	E-GEO
 organism part	gonadal fat pad	http://purl.obolibrary.org/obo/UBERON_0003428	E-MTAB-8402	ERR3580441	embryonic gonadal ridge	
 organism part	inguinal lymph node	http://purl.obolibrary.org/obo/UBERON_0001542	E-MTAB-8482	ERR3653605		
 organism part	ovarian surface epithelium	http://purl.obolibrary.org/obo/UBERON_0001304	E-GEOD-43897	GSM1074130	germinal epithelium of ovary	
+phenotype	fever	http://purl.obolibrary.org/obo/HP_0001945	E-GEOD-80060	GSM2112072		
+phenotype	renal injury	http://www.ebi.ac.uk/efo/EFO_0009833	E-MTAB-5319	ERR1811868	kidney injury	
+phenotype	trisomy 8	http://purl.obolibrary.org/obo/MONDO_0043452	E-GEOD-52478	GSM1267685	chromosome 8, trisomy	
+sampling site	neck lymph node	http://purl.obolibrary.org/obo/UBERON_0002429	E-MTAB-7681	JN16	cervical lymph node	
+sampling site	cardiac atrium	http://purl.obolibrary.org/obo/UBERON_0002081	E-MTAB-8701	ERR3829745		
+stimulus	poly(I:C)	http://purl.obolibrary.org/obo/CHEBI_84491	E-MTAB-7032	ERR2699925		
+stimulus	poly(I:C)	http://purl.obolibrary.org/obo/CHEBI_84491	E-MTAB-7390	ERR2896337		
+strain	B6/C3H F1 hybrid	http://www.ebi.ac.uk/efo/EFO_0001340	E-GEOD-8150	Mouse old brain w/ a-tocopherol aT-Br-5	B6C3F1	
+strain	C57BL/6 x 129 mixed background	http://www.ebi.ac.uk/efo/EFO_0000601	E-GEOD-56378	GSM1360107	129xC57BL/6	
+strain	C57BL/6 x 129/Sv	http://www.ebi.ac.uk/efo/EFO_0000601	E-GEOD-21944	GSM545857	129xC57BL/6	
+strain	C57BL/6 X 129/sv	http://www.ebi.ac.uk/efo/EFO_0000601	E-GEOD-3231	CPGSC#20, chip MOE430B	129xC57BL/6	
+strain	C57Bl/6 x 129Sv	http://www.ebi.ac.uk/efo/EFO_0000601	E-GEOD-44146	GSM1079647	129xC57BL/6	
+strain	C57BL/6/SV129	http://www.ebi.ac.uk/efo/EFO_0000601	E-GEOD-40282	GSM990643	129xC57BL/6	
+strain	C57BL/6/SV129	http://www.ebi.ac.uk/efo/EFO_0000601	E-GEOD-40284	GSM990656	129xC57BL/6	
+strain	C57BL/6x129	http://www.ebi.ac.uk/efo/EFO_0000601	E-GEOD-34773	GSM854989	129xC57BL/6	
+strain	C57Bl6 x 129Sv	http://www.ebi.ac.uk/efo/EFO_0000601	E-MEXP-1413	04SE143	129xC57BL/6	
+strain	mixed 129SV;C57BL/6	http://www.ebi.ac.uk/efo/EFO_0002743	E-TABM-304	ckt_C_11922_3.CEL	129xC57BL/6	
+strain	mixed background (C57BL/6 and 129)	http://www.ebi.ac.uk/efo/EFO_0009760	E-GEOD-68382	GSM1670679	129xC57BL/6	
+strain	mixed background (C57BL/6 and 129)	http://www.ebi.ac.uk/efo/EFO_0009760	E-GEOD-68429	GSM1671592	129xC57BL/6	
+strain	mixed background (C57BL6 and 129)	http://www.ebi.ac.uk/efo/EFO_0009760	E-GEOD-70562	GSM1810419	129xC57BL/6	
+strain	mixed C57BL/6 and 129/Sv	http://purl.obolibrary.org/obo/CHEBI_28077	E-GEOD-2362	Cpr-low_pool 3	129xC57BL/6	
+strain	NZO/HILtJ	http://www.ebi.ac.uk/efo/EFO_0007729	E-MTAB-5020	SRR1036592	NZO/HlLtJ	
