@@ -3491,7 +3491,6 @@ disease	metastatic prostate cancer	http://www.ebi.ac.uk/efo/EFO_0000196	E-GEOD-3
 disease	metastatic prostate cancer	http://www.ebi.ac.uk/efo/EFO_0000196	E-GEOD-33455	GSM827130	Laura Huerta	07/10/2015 10:05
 disease	mucocutaneous lymph node syndrome	http://www.ebi.ac.uk/efo/EFO_0004246	E-GEOD-16797	GSM421932	Laura Huerta	07/10/2015 10:05
 disease	muscular dystrophy	http://www.orpha.net/ORDO/Orphanet_98473	E-GEOD-2507	S/SM5	Laura Huerta	07/10/2015 10:05
-disease	myotonic dystrophy type 1	http://purl.obolibrary.org/obo/DOID_11722	E-GEOD-7179	GSM172880	Laura Huerta	07/10/2015 10:05
 disease	nasopharyngeal squamous cell carcinoma	http://www.ebi.ac.uk/efo/EFO_1000058	E-MTAB-2706	ERR413487	Laura Huerta	07/10/2015 10:05
 disease	nephrosclerosis	http://www.ebi.ac.uk/efo/EFO_1000041	E-GEOD-20602	GSM517355	Laura Huerta	07/10/2015 10:05
 disease	Nijmegen breakage syndrome	http://www.orpha.net/ORDO/Orphanet_647	E-GEOD-13909	immortalised_lineS9_8_hours_after_IL-2_deprivation_biol_rep1	Laura Huerta	07/10/2015 10:05
@@ -17596,7 +17595,6 @@ organism part	head	http://purl.obolibrary.org/obo/UBERON_0000033	E-GEOD-25988	GS
 organism part	head	http://purl.obolibrary.org/obo/UBERON_0000033	E-GEOD-27927	GSM690660 1	Laura Huerta	03/03/2016 10:00
 organism part	head	http://purl.obolibrary.org/obo/UBERON_0000033	E-GEOD-8330	GSE8330GSM206428	Laura Huerta	03/03/2016 10:00
 organism part	head	http://purl.obolibrary.org/obo/UBERON_0000033	E-MEXP-1179	ebi.ac.uk:MIAMExpress:BioSample:Extraction.29744	Laura Huerta	03/03/2016 10:00
-organism part	Head and neck	http://purl.obolibrary.org/obo/UBERON_000003h|ttp://purl.obolibrary.org/obo/UBERON_0000974	E-GEOD-21050	GSM526033 1	Laura Huerta	03/03/2016 10:00
 organism part	head capsule	http://purl.obolibrary.org/obo/UBERON_0003153	E-GEOD-7763	Head biological rep4	Laura Huerta	03/03/2016 10:00
 organism part	heart	http://purl.obolibrary.org/obo/UBERON_0000948	E-GEOD-10744	GSM271247 1	Laura Huerta	03/03/2016 10:00
 organism part	heart	http://purl.obolibrary.org/obo/UBERON_0000948	E-GEOD-1479	ebi.ac.uk:Tab2MAGE:E-GEOD-1479.27.DerivedBioAssay	Laura Huerta	03/03/2016 10:00
@@ -24140,7 +24138,6 @@ organism part	lymph node mesenteric	http://purl.obolibrary.org/obo/UBERON_000250
 organism part	maxilla	http://purl.obolibrary.org/obo/UBERON_0002397	E-GEOD-60058	GSM1464404	Laura Huerta	10/06/2016 10:00
 organism part	middle ear	http://purl.obolibrary.org/obo/UBERON_0001756	E-GEOD-49128	GSM1194118	Laura Huerta	10/06/2016 10:00
 disease	muscular dystrophy	http://www.orpha.net/ORDO/Orphanet_98473	E-GEOD-2507	S/LV2	Laura Huerta	10/06/2016 10:00
-disease	neurofibromatosis	http://www.orpha.net/ORDO/Orphanet_68388	E-GEOD-1482	DMN-NF1Hippo15d-2cAv2-s2	Laura Huerta	10/06/2016 10:00
 disease	papillary lung adenocarcinoma	http://www.ebi.ac.uk/efo/EFO_1000046	E-MTAB-3983	ERR900165	Laura Huerta	10/06/2016 10:00
 organism part	peripheral blood mononuclear cells	http://purl.obolibrary.org/obo/CL_2000001	E-MTAB-3956	251911814418_S01_miRNA_107_Sep09_2_4	Laura Huerta	10/06/2016 10:00
 phenotype	pluripotent stem cell	http://purl.obolibrary.org/obo/CL_0002248	E-GEOD-60548	SRR1554436	Laura Huerta	10/06/2016 10:00
@@ -25579,7 +25576,6 @@ growth condition	continuous light regimen	http://purl.obolibrary.org/obo/EO_0007
 growth condition	continuous light regimen	http://purl.obolibrary.org/obo/EO_0007162	E-MTAB-5777	ERR1990454	Laura Huerta	01/02/2018 10:00
 growth condition	continuous light regimen	http://purl.obolibrary.org/obo/EO_0007162	E-MTAB-6123	H1003433_JGL1157-21_70925	Laura Huerta	01/02/2018 10:00
 cell type	cortical thymic epithelial cell	http://purl.obolibrary.org/obo/CL_0002364	E-GEOD-65617	SRR1786209	Laura Huerta	01/02/2018 10:00
-disease	corticobasal degeneration	http://www.orpha.net/ORDO/Orphanet_278	E-GEOD-6613	neurological disease control sample x087	Laura Huerta	01/02/2018 10:00
 organism part	cotyledon abaxial epidermis	http://purl.obolibrary.org/obo/PO_0006057	E-MTAB-4045	SRR827670	Laura Huerta	01/02/2018 10:00
 organism part	cotyledon adaxial epidermis	http://purl.obolibrary.org/obo/PO_0006058	E-MTAB-4045	SRR1298659	Laura Huerta	01/02/2018 10:00
 developmental stage	cotyledon emergence stage	http://purl.obolibrary.org/obo/PO_0007049	E-MTAB-4484	ERR424737	Laura Huerta	01/02/2018 10:00
@@ -27762,7 +27758,6 @@ cell type	retinal ganglion cell	http://purl.obolibrary.org/obo/CL_0000740	E-MTAB
 organism part	retinal neural layer	http://purl.obolibrary.org/obo/UBERON_0003902	E-MTAB-7316	ERR2854360	Nancy George	06/09/19 11:00
 progenitor cell type	skin fibroblast	http://purl.obolibrary.org/obo/CL_0002620	E-MTAB-6524	ERR3307237	Nancy George	06/09/19 11:00
 inferred cell type	somitic mesoderm	http://purl.obolibrary.org/obo/UBERON_0003077	E-MTAB-6912	ERR2929171	Nancy George	06/09/19 11:00
-disease	tonsilitis	http://purl.obolibrary.org/obo/MONDO_0001039	E-MTAB-7381	ERR2857996	Nancy George	06/09/19 11:00
 cell type	totipotent stem cell	http://purl.obolibrary.org/obo/CL_0000052	E-GEOD-36552	SRR490962	Nancy George	06/09/19 11:00
 cell type	spheroplast	http://purl.obolibrary.org/obo/CL_0000524	E-GEOD-102475	SRR5924299	Anja Fullgrabe	06/09/19 11:30
 organism part	middle lobe of right lung	http://purl.obolibrary.org/obo/UBERON_0002174	E-CURD-11	SRR2049468	Anja Fullgrabe	10/10/19 16:00
@@ -27855,7 +27850,6 @@ developmental stage	second instar larva	http://purl.obolibrary.org/obo/FBdv_0000
 developmental stage	seed dormant stage	http://purl.obolibrary.org/obo/PO_0025374	E-MTAB-6740	ERR2540456	Anja Fullgrabe	10/10/19 16:00
 developmental stage	root development stage	http://purl.obolibrary.org/obo/PO_0007520	E-MTAB-6422	ERR2273075	Anja Fullgrabe	10/10/19 16:00
 developmental stage	sporophyte senescent stage	http://purl.obolibrary.org/obo/PO_0007017	E-MTAB-6422	ERR2273079	Anja Fullgrabe	10/10/19 16:00
-disease	Aicardi-Goutières syndrome	http://purl.obolibrary.org/obo/DOID_0050629	E-MTAB-7087	ERR2716244	Anja Fullgrabe	10/10/19 16:00
 disease	autoimmune pancreatitis type 1	http://www.ebi.ac.uk/efo/EFO_1000780	E-MTAB-7337	ERR2856945	Anja Fullgrabe	10/10/19 16:00
 disease	bacteriemia	http://www.ebi.ac.uk/efo/EFO_0003033	E-ENAD-28	GSM824738	Anja Fullgrabe	10/10/19 16:00
 disease	Benign adult familial myoclonic epilepsy	http://www.orpha.net/ORDO/Orphanet_86814	E-MTAB-8301	ERR3506862	Anja Fullgrabe	10/10/19 16:00
@@ -27875,7 +27869,6 @@ disease	neonatal sepsis	http://purl.obolibrary.org/obo/HP_0040187	E-MTAB-4785	MV
 disease	Neurofibromatosis type 1	http://www.orpha.net/ORDO/Orphanet_636	E-MTAB-6087	ERR2138806	Anja Fullgrabe	10/10/19 16:00
 disease	Newcastle disease	http://www.ebi.ac.uk/efo/EFO_0007395	E-MTAB-6038	ERR2124644	Anja Fullgrabe	10/10/19 16:00
 disease	pharyngeal cancer	http://www.ebi.ac.uk/efo/EFO_0005577	E-MTAB-7841	ERR3262108	Anja Fullgrabe	10/10/19 16:00
-disease	pulmonary sarcoidosis	http://purl.obolibrary.org/obo/DOID_13406	E-MTAB-6158	ERR2180966	Anja Fullgrabe	10/10/19 16:00
 disease	subarachnoid hemorrhage	http://www.ebi.ac.uk/efo/EFO_0000713	E-MTAB-8407	Sample 7:biotin	Anja Fullgrabe	10/10/19 16:00
 ethnic group	American	http://purl.obolibrary.org/obo/HANCESTRO_0463	E-GEOD-112057	SRR6868574	Anja Fullgrabe	10/10/19 16:00
 ethnic group	American	http://purl.obolibrary.org/obo/HANCESTRO_0463	E-GEOD-13501	GSM340260	Anja Fullgrabe	10/10/19 16:00
@@ -27974,3 +27967,104 @@ strain	ZDF	http://purl.obolibrary.org/obo/RS_0001101	E-MTAB-5563	006-ZDF-lean	An
 strain	Zucker Diabetic Fatty Rat	http://purl.obolibrary.org/obo/RS_0001101	E-GEOD-30147	GSM746616	Anja Fullgrabe	10/10/19 16:00
 treatment	mTOR inhibitor	http://purl.obolibrary.org/obo/CHEBI_68481	E-GEOD-67529		Anja Fullgrabe	10/10/19 16:00
 tumor grading	Ta tumor stage	http://www.ebi.ac.uk/efo/EFO_0005309	E-MTAB-1940	FR_347_U133_2.CEL	Anja Fullgrabe	10/10/19 16:00
+strain	AKR/J	http://www.ebi.ac.uk/efo/EFO_0007726	E-ENAD-29	GSM824525	Anja Fullgrabe	30/01/20 17:00
+strain	AKR/J	http://www.ebi.ac.uk/efo/EFO_0007726	E-MTAB-8344	ERR3568712	Anja Fullgrabe	30/01/20 17:00
+strain	AKR/J	http://www.ebi.ac.uk/efo/EFO_0007726	E-MTAB-8550	ERR3697284	Anja Fullgrabe	30/01/20 17:00
+infect	Astrovirus VA1	http://purl.obolibrary.org/obo/NCBITaxon_645687	E-MTAB-8527	ERR3671290	Anja Fullgrabe	30/01/20 17:00
+infect	Beet necrotic yellow vein virus	http://purl.obolibrary.org/obo/NCBITaxon_31721	E-MTAB-8187	ERR3452450	Anja Fullgrabe	30/01/20 17:00
+infect	Beet soil-borne mosaic virus	http://purl.obolibrary.org/obo/NCBITaxon_76343	E-MTAB-8187	ERR3452457	Anja Fullgrabe	30/01/20 17:00
+strain	BN/SsNHsd	http://purl.obolibrary.org/obo/RS_0000155	E-MTAB-2800	SRR594430	Anja Fullgrabe	30/01/20 17:00
+genetic modification	chemically induced mutation	http://www.ebi.ac.uk/efo/EFO_0000370	E-MTAB-6755	ERR2560194	Anja Fullgrabe	30/01/20 17:00
+strain	Crl:CD(SD)	http://purl.obolibrary.org/obo/RS_0000064	E-GEOD-54584	GSM1319573	Anja Fullgrabe	30/01/20 17:00
+cell line	HAP-1	http://www.ebi.ac.uk/efo/EFO_0007598	E-MTAB-7061	ERR3348206	Anja Fullgrabe	30/01/20 17:00
+organism part	intestinal epithelium	http://purl.obolibrary.org/obo/UBERON_0001277	E-MTAB-8527	ERR3671298	Anja Fullgrabe	30/01/20 17:00
+cell type	lymph node subcapsular sinus macrophage	http://purl.obolibrary.org/obo/CL_0000887	E-MTAB-8482	ERR3653616	Anja Fullgrabe	30/01/20 17:00
+disease	myxosarcoma	http://www.ebi.ac.uk/efo/EFO_1001056	E-MTAB-8701	ERR3829745	Anja Fullgrabe	30/01/20 17:00
+strain	NOD mouse	http://www.ebi.ac.uk/efo/EFO_0002547	E-MTAB-8443	Ctrl9	Anja Fullgrabe	30/01/20 17:00
+cell type	non-classical monocyte	http://purl.obolibrary.org/obo/CL_0000875	E-MTAB-8185	ERR3450429	Anja Fullgrabe	30/01/20 17:00
+compound	poly(I:C)	http://purl.obolibrary.org/obo/CHEBI_84491	E-MTAB-4928	35MR_3229	Anja Fullgrabe	30/01/20 17:00
+compound	poly(I:C)	http://purl.obolibrary.org/obo/CHEBI_84491	E-MTAB-7406	ASM2	Anja Fullgrabe	30/01/20 17:00
+compound	poly(I:C)	http://purl.obolibrary.org/obo/CHEBI_84491	E-MTAB-7803	ERR3288627	Anja Fullgrabe	30/01/20 17:00
+cell type	precursor B cell	http://purl.obolibrary.org/obo/CL_0000817	E-MTAB-8005	ERR3346306	Anja Fullgrabe	30/01/20 17:00
+infect	Rhipicephalus microplus	http://purl.obolibrary.org/obo/NCBITaxon_6941	E-MTAB-8022	ERR3365935	Anja Fullgrabe	30/01/20 17:00
+disease	sclerosing cholangitis	http://www.ebi.ac.uk/efo/EFO_0004268	E-MTAB-7915	ERR3300779	Anja Fullgrabe	30/01/20 17:00
+compound	tofacitinib	http://purl.obolibrary.org/obo/CHEBI_71200	E-MTAB-8536	ERR3672143	Anja Fullgrabe	30/01/20 17:00
+geographical location	United Kingdom	http://dbpedia.org/resource/United_Kingdom	E-MTAB-8163	ERR3458987	Anja Fullgrabe	30/01/20 17:00
+organism part	visceral abdominal adipose tissue	http://purl.obolibrary.org/obo/UBERON_0014454	E-MTAB-8435	ERR3596210	Anja Fullgrabe	30/01/20 17:00
+infect	Lymphocytic choriomeningitis mammarenavirus	http://purl.obolibrary.org/obo/NCBITaxon_11623	E-MTAB-7562	ERR3013395	Anja Fullgrabe	30/01/20 17:00
+cell line	CAL851	http://www.ebi.ac.uk/efo/EFO_0005359	E-MTAB-8408	ERR3580106	Anja Fullgrabe	30/01/20 17:00
+cell line	PEO14	http://www.ebi.ac.uk/efo/EFO_0005446	E-MTAB-8198	ERR3456442	Anja Fullgrabe	30/01/20 17:00
+cell type	CD16 negative mononuclear cell	http://purl.obolibrary.org/obo/CL_0002057	E-GEOD-16836	Peripheral blood monocytes, CD16 negative, rep1	Anja Fullgrabe	30/01/20 17:00
+cell type	CD16 positive mononuclear cell	http://purl.obolibrary.org/obo/CL_0002397	E-GEOD-16836	Peripheral blood monocytes, CD16 positive, rep4	Anja Fullgrabe	30/01/20 17:00
+cell type	pulmonary endothelial cell	http://purl.obolibrary.org/obo/CL_1001567	E-GEOD-40613	GSM997916	Anja Fullgrabe	30/01/20 17:00
+cell type	Lin-negative,  Sca1-positive, c-Kit-positive	http://purl.obolibrary.org/obo/CL_0001008	E-GEOD-61147	GSM1498403	Anja Fullgrabe	30/01/20 17:00
+cell type	LSK hematopoietic stem cells	http://purl.obolibrary.org/obo/CL_0001008	E-GEOD-65913	GSM1610473	Anja Fullgrabe	30/01/20 17:00
+compound	alpha-GalCer	http://purl.obolibrary.org/obo/CHEBI_132148	E-GEOD-27149	GSM671142	Anja Fullgrabe	30/01/20 17:00
+compound	gamma secretase inhibitor RO4929097	http://purl.obolibrary.org/obo/CHEBI_86474	E-GEOD-36176	GSM882377	Anja Fullgrabe	30/01/20 17:00
+compound	CDK4/6 inhibitor PD 0332991	http://purl.obolibrary.org/obo/CHEBI_85993	E-GEOD-40513	GSM995432	Anja Fullgrabe	30/01/20 17:00
+compound	Lacciac Acid A	http://purl.obolibrary.org/obo/CHEBI_90186	E-GEOD-45804	GSM1115766	Anja Fullgrabe	30/01/20 17:00
+compound	dsRNA poly(I:C)	http://purl.obolibrary.org/obo/CHEBI_84491	E-MTAB-2451	3189_35d_LOW	Anja Fullgrabe	30/01/20 17:00
+compound	α-GalCer	http://purl.obolibrary.org/obo/CHEBI_132148	E-MTAB-6381	ERR2269683	Anja Fullgrabe	30/01/20 17:00
+compound	PD0325901	http://purl.obolibrary.org/obo/CHEBI_88249	E-MTAB-6681	ERR2534092	Anja Fullgrabe	30/01/20 17:00
+compound	clopidogrel	http://purl.obolibrary.org/obo/CHEBI_37941	E-MTAB-8049	ERR3367699	Anja Fullgrabe	30/01/20 17:00
+compound	ticagrelor	http://purl.obolibrary.org/obo/CHEBI_68558	E-MTAB-8049	ERR3367704	Anja Fullgrabe	30/01/20 17:00
+compound	clopidogrel	http://purl.obolibrary.org/obo/CHEBI_37941	E-MTAB-8050	ERR3367683	Anja Fullgrabe	30/01/20 17:00
+compound	ticagrelor	http://purl.obolibrary.org/obo/CHEBI_68558	E-MTAB-8050	ERR3367697	Anja Fullgrabe	30/01/20 17:00
+developmental stage	plant embryo cotyledonary stage	http://purl.obolibrary.org/obo/PO_0001078	E-GEOD-24887	GSM612046	Anja Fullgrabe	30/01/20 17:00
+developmental stage	first instar larva	http://purl.obolibrary.org/obo/FBdv_00005337	E-GEOD-5984	Wt_larvae_rep1	Anja Fullgrabe	30/01/20 17:00
+developmental stage	first instar larva	http://purl.obolibrary.org/obo/FBdv_00005337	E-GEOD-6839	Pof Mutant 1stInstar larvae rep1	Anja Fullgrabe	30/01/20 17:00
+developmental stage	lateral root primordium formation stage	http://purl.obolibrary.org/obo/PO_0007511	E-MTAB-2565	CPIB_LRP_hyb_10	Anja Fullgrabe	30/01/20 17:00
+developmental stage	globular stage	http://purl.obolibrary.org/obo/PO_0001185	E-MTAB-4045	SRR1272357	Anja Fullgrabe	30/01/20 17:00
+developmental stage	first instar larva stage	http://purl.obolibrary.org/obo/FBdv_00005337	E-MTAB-5344	ERR1758835	Anja Fullgrabe	30/01/20 17:00
+developmental stage	embryonic stage	http://www.ebi.ac.uk/efo/EFO_0007725	E-MTAB-7529	PL2Dros2T63P	Anja Fullgrabe	30/01/20 17:00
+developmental stage	embryo stage	http://www.ebi.ac.uk/efo/EFO_0007725	E-MTAB-8067	ERR3380206	Anja Fullgrabe	30/01/20 17:00
+disease	Aicardi-Goutières syndrome	http://www.orpha.net/ORDO/Orphanet_51	E-MTAB-7087	ERR2716234	Anja Fullgrabe	30/01/20 17:00
+disease	immunoblastic large cell lymphoma	http://purl.obolibrary.org/obo/MONDO_0022037	E-MTAB-2706	ERR413951	Anja Fullgrabe	30/01/20 17:00
+disease	Klinefelter’s Syndrome	http://www.ebi.ac.uk/efo/EFO_1001006	E-GEOD-37258	GSM914974	Anja Fullgrabe	30/01/20 17:00
+disease	large cell immunoblastic lymphoma	http://purl.obolibrary.org/obo/MONDO_0022037	E-MTAB-3983	ERR989671	Anja Fullgrabe	30/01/20 17:00
+disease	malignant catarrhal fever	http://purl.obolibrary.org/obo/MONDO_0025096	E-MEXP-3497	LN_199_MCF	Anja Fullgrabe	30/01/20 17:00
+disease	rheumatoid factor-negative juvenile idiopathic arthritis	http://purl.obolibrary.org/obo/MONDO_0019432	E-GEOD-11083	GSM280006	Anja Fullgrabe	30/01/20 17:00
+disease	rheumatoid factor-negative juvenile idiopathic arthritis	http://purl.obolibrary.org/obo/MONDO_0019432	E-GEOD-13501	GSM340326	Anja Fullgrabe	30/01/20 17:00
+disease	rheumatoid factor-negative juvenile idiopathic arthritis	http://purl.obolibrary.org/obo/MONDO_0019432	E-GEOD-13849	GSM340337	Anja Fullgrabe	30/01/20 17:00
+disease	rheumatoid factor-negative juvenile idiopathic arthritis	http://purl.obolibrary.org/obo/MONDO_0019432	E-GEOD-15645	GSM391605	Anja Fullgrabe	30/01/20 17:00
+disease	rheumatoid factor-negative juvenile idiopathic arthritis	http://purl.obolibrary.org/obo/MONDO_0019432	E-GEOD-41831	GSM1025153	Anja Fullgrabe	30/01/20 17:00
+disease	myotonic dystrophy type 1	http://www.orpha.net/ORDO/Orphanet_273	E-GEOD-7179	GSM172880	Anja Fullgrabe	31/10/2020 10:00
+disease	Aicardi-Goutières syndrome	http://www.orpha.net/ORDO/Orphanet_51	E-MTAB-7087	ERR2716244	Anja Fullgrabe	31/10/2020 10:00
+disease	tonsilitis	http://purl.obolibrary.org/obo/HP_0011110	E-MTAB-7381	ERR2857996	Anja Fullgrabe	31/10/2020 10:00
+disease	neurofibromatosis	http://www.ebi.ac.uk/efo/EFO_0008514	E-GEOD-1482	DMN-NF1Hippo15d-2cAv2-s2	Anja Fullgrabe	31/10/2020 10:00
+disease	corticobasal degeneration	http://purl.obolibrary.org/obo/MONDO_0018696	E-GEOD-6613	neurological disease control sample x087	Anja Fullgrabe	31/10/2020 10:00
+disease	pulmonary sarcoidosis	http://purl.obolibrary.org/obo/MONDO_0001708	E-MTAB-6158	ERR2180966	Anja Fullgrabe	31/10/2020 10:00
+growth condition	hypoxic	http://www.ebi.ac.uk/efo/EFO_0009444	E-MTAB-2580	ERR507056	Anja Fullgrabe	31/10/2020 10:00
+infect	Streptococcus pneumoniae strain 23F	http://purl.obolibrary.org/obo/NCBITaxon_216600	E-MTAB-7841	ERR3262080	Anja Fullgrabe	31/10/2020 10:00
+infect	Streptococcus pneumoniae strain TIGR4	http://purl.obolibrary.org/obo/NCBITaxon_170187	E-MTAB-7841	ERR3262119	Anja Fullgrabe	31/10/2020 10:00
+infect	Trypanosoma brucei brucei	http://purl.obolibrary.org/obo/NCBITaxon_5702	E-MTAB-7469	ERR2982952	Anja Fullgrabe	31/10/2020 10:00
+injury	burn	http://www.ebi.ac.uk/efo/EFO_0009516	E-GEOD-19743	GSM493719	Anja Fullgrabe	31/10/2020 10:00
+organism	Beta vulgaris	http://purl.obolibrary.org/obo/NCBITaxon_161934	E-MTAB-8187	ERR3452465	Anja Fullgrabe	31/10/2020 10:00
+organism part	gonadal fat pad	http://purl.obolibrary.org/obo/UBERON_0003428	E-MTAB-8402	ERR3580441	Anja Fullgrabe	31/10/2020 10:00
+organism part	epidimymal fat	http://purl.obolibrary.org/obo/UBERON_0010412	E-GEOD-31115	GSM435041	Anja Fullgrabe	31/10/2020 10:00
+organism part	epidydimal fat	http://purl.obolibrary.org/obo/UBERON_0010412	E-GEOD-60596	GSM1483030	Anja Fullgrabe	31/10/2020 10:00
+organism part	gonadal fat pad	http://purl.obolibrary.org/obo/UBERON_0003428	E-MTAB-8402	ERR3580441	Anja Fullgrabe	31/10/2020 10:00
+organism part	inguinal lymph node	http://purl.obolibrary.org/obo/UBERON_0001542	E-MTAB-8482	ERR3653605	Anja Fullgrabe	31/10/2020 10:00
+organism part	ovarian surface epithelium	http://purl.obolibrary.org/obo/UBERON_0001304	E-GEOD-43897	GSM1074130	Anja Fullgrabe	31/10/2020 10:00
+phenotype	fever	http://purl.obolibrary.org/obo/HP_0001945	E-GEOD-80060	GSM2112072	Anja Fullgrabe	31/10/2020 10:00
+phenotype	renal injury	http://www.ebi.ac.uk/efo/EFO_0009833	E-MTAB-5319	ERR1811868	Anja Fullgrabe	31/10/2020 10:00
+phenotype	trisomy 8	http://purl.obolibrary.org/obo/MONDO_0043452	E-GEOD-52478	GSM1267685	Anja Fullgrabe	31/10/2020 10:00
+sampling site	neck lymph node	http://purl.obolibrary.org/obo/UBERON_0002429	E-MTAB-7681	JN16	Anja Fullgrabe	31/10/2020 10:00
+sampling site	cardiac atrium	http://purl.obolibrary.org/obo/UBERON_0002081	E-MTAB-8701	ERR3829745	Anja Fullgrabe	31/10/2020 10:00
+stimulus	poly(I:C)	http://purl.obolibrary.org/obo/CHEBI_84491	E-MTAB-7032	ERR2699925	Anja Fullgrabe	31/10/2020 10:00
+stimulus	poly(I:C)	http://purl.obolibrary.org/obo/CHEBI_84491	E-MTAB-7390	ERR2896337	Anja Fullgrabe	31/10/2020 10:00
+strain	B6/C3H F1 hybrid	http://www.ebi.ac.uk/efo/EFO_0000601	E-GEOD-8150	Mouse old brain w/ a-tocopherol aT-Br-5	Anja Fullgrabe	31/10/2020 10:00
+strain	C57BL/6 x 129 mixed background	http://www.ebi.ac.uk/efo/EFO_0000601	E-GEOD-56378	GSM1360107	Anja Fullgrabe	31/10/2020 10:00
+strain	C57BL/6 x 129/Sv	http://www.ebi.ac.uk/efo/EFO_0000601	E-GEOD-21944	GSM545857	Anja Fullgrabe	31/10/2020 10:00
+strain	C57BL/6 X 129/sv	http://www.ebi.ac.uk/efo/EFO_0000601	E-GEOD-3231	CPGSC#20, chip MOE430B	Anja Fullgrabe	31/10/2020 10:00
+strain	C57Bl/6 x 129Sv	http://www.ebi.ac.uk/efo/EFO_0000601	E-GEOD-44146	GSM1079647	Anja Fullgrabe	31/10/2020 10:00
+strain	C57BL/6/SV129	http://www.ebi.ac.uk/efo/EFO_0000601	E-GEOD-40282	GSM990643	Anja Fullgrabe	31/10/2020 10:00
+strain	C57BL/6/SV129	http://www.ebi.ac.uk/efo/EFO_0000601	E-GEOD-40284	GSM990656	Anja Fullgrabe	31/10/2020 10:00
+strain	C57BL/6x129	http://www.ebi.ac.uk/efo/EFO_0000601	E-GEOD-34773	GSM854989	Anja Fullgrabe	31/10/2020 10:00
+strain	C57Bl6 x 129Sv	http://www.ebi.ac.uk/efo/EFO_0000601	E-MEXP-1413	04SE143	Anja Fullgrabe	31/10/2020 10:00
+strain	mixed 129SV;C57BL/6	http://www.ebi.ac.uk/efo/EFO_0000601	E-TABM-304	ckt_C_11922_3.CEL	Anja Fullgrabe	31/10/2020 10:00
+strain	mixed background (C57BL/6 and 129)	http://www.ebi.ac.uk/efo/EFO_0000601	E-GEOD-68382	GSM1670679	Anja Fullgrabe	31/10/2020 10:00
+strain	mixed background (C57BL/6 and 129)	http://www.ebi.ac.uk/efo/EFO_0000601	E-GEOD-68429	GSM1671592	Anja Fullgrabe	31/10/2020 10:00
+strain	mixed background (C57BL6 and 129)	http://www.ebi.ac.uk/efo/EFO_0000601	E-GEOD-70562	GSM1810419	Anja Fullgrabe	31/10/2020 10:00
+strain	mixed C57BL/6 and 129/Sv	http://www.ebi.ac.uk/efo/EFO_0000601	E-GEOD-2362	Cpr-low_pool 3	Anja Fullgrabe	31/10/2020 10:00
+strain	NZO/HILtJ	http://www.ebi.ac.uk/efo/EFO_0007729	E-MTAB-5020	SRR1036592	Anja Fullgrabe	31/10/2020 10:00
