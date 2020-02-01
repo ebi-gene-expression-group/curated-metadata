@@ -28068,3 +28068,7 @@ strain	mixed background (C57BL/6 and 129)	http://www.ebi.ac.uk/efo/EFO_0000601	E
 strain	mixed background (C57BL6 and 129)	http://www.ebi.ac.uk/efo/EFO_0000601	E-GEOD-70562	GSM1810419	Anja Fullgrabe	31/10/2020 10:00
 strain	mixed C57BL/6 and 129/Sv	http://www.ebi.ac.uk/efo/EFO_0000601	E-GEOD-2362	Cpr-low_pool 3	Anja Fullgrabe	31/10/2020 10:00
 strain	NZO/HILtJ	http://www.ebi.ac.uk/efo/EFO_0007729	E-MTAB-5020	SRR1036592	Anja Fullgrabe	31/10/2020 10:00
+organism part	endocarp	http://purl.obolibrary.org/obo/PO_0009086	E-ENAD-11	SRR1979038	Anja Fullgrabe	01/02/2020 16:00
+compound	PLX4720	http://purl.obolibrary.org/obo/CHEBI_90295	E-MTAB-7453	ERR2950744	Anja Fullgrabe	01/02/2020 16:00
+strain	F1.129xB6	http://www.ebi.ac.uk/efo/EFO_0000601	E-MTAB-8344	ERR3568726	Anja Fullgrabe	01/02/2020 16:00
+developmental stage	imago	http://purl.obolibrary.org/obo/FBdv_00005369	E-MTAB-8704	AdoR_ctr2	Anja Fullgrabe	01/02/2020 16:00
