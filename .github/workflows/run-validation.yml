@@ -6,7 +6,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-
       - name: checkout repo content
         uses: actions/checkout@v2
 
@@ -15,5 +14,5 @@ jobs:
         with:
           python-version: '3.6'
 
-     - name: execute python script
-       run: python tests/validate_mappings_file.py zoomage_report.CURATED.tsv
+      - name: execute python script
+        run: python tests/validate_mappings_file.py zoomage_report.CURATED.tsv
