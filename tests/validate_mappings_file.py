@@ -2,7 +2,6 @@ import codecs
 from collections import defaultdict
 import sys
 
-
 def check_for_mapping_conflict():
     """This test checks if a single term has been mapped two more than one
     ontology terms"""
