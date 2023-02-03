@@ -12,7 +12,7 @@ jobs:
       - name: setup python
         uses: actions/setup-python@v2
         with:
-          python-version: '3.6'
+          python-version: '3.6.15'
 
       - name: execute python script
         run: python tests/validate_mappings_file.py zoomage_report.CURATED.tsv
